@@ -1,0 +1,19 @@
+data:
+  raw_path: "data/raw/insurance_claims.csv"
+  processed_path: "data/processed/selected_features.csv"
+  target_column: "fraud_reported"
+  test_size: 0.15
+  val_size: 0.15
+  random_state: 42
+
+model:
+  logistic_regression:
+    C: 1.0
+    l1_ratio: 0
+    solver: "lbfgs"
+    max_iter: 1000
+    class_weight: "balanced"
+
+cross_validation:
+  n_folds: 5
+  scoring: "f1"
