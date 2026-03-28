@@ -1,0 +1,1001 @@
+incident_severity,umbrella_limit,property_damage,vehicle_claim,witnesses,total_claim_amount,insured_hobbies,collision_type,incident_city,authorities_contacted,property_claim,incident_state,policy_state,bodily_injuries,insured_sex,policy_csl,injury_claim,auto_make,number_of_vehicles_involved,insured_relationship,fraud_reported
+Major Damage,0,YES,52080,2,71610,sleeping,Side Collision,Columbus,Police,13020,SC,OH,1,MALE,250/500,6510,Saab,1,husband,Y
+Minor Damage,5000000,,3510,0,5070,reading,,Riverwood,Police,780,VA,IN,0,MALE,250/500,780,Mercedes,1,other-relative,Y
+Minor Damage,5000000,NO,23100,3,34650,board-games,Rear Collision,Columbus,Police,3850,NY,OH,2,FEMALE,100/300,7700,Dodge,3,own-child,N
+Major Damage,6000000,,50720,2,63400,board-games,Front Collision,Arlington,Police,6340,OH,IL,1,FEMALE,250/500,6340,Chevrolet,1,unmarried,Y
+Minor Damage,6000000,NO,4550,1,6500,board-games,,Arlington,,650,NY,IL,0,MALE,500/1000,1300,Accura,1,unmarried,N
+Major Damage,0,NO,51280,2,64100,bungie-jumping,Rear Collision,Arlington,Fire,6410,SC,OH,0,FEMALE,250/500,6410,Saab,3,unmarried,Y
+Minor Damage,0,,50050,0,78650,board-games,Front Collision,Springfield,Police,7150,NY,IN,0,MALE,250/500,21450,Nissan,3,husband,N
+Total Loss,0,,32830,2,51590,base-jumping,Front Collision,Columbus,Police,9380,VA,IL,2,MALE,100/300,9380,Audi,3,unmarried,N
+Total Loss,0,NO,22160,1,27700,golf,Front Collision,Arlington,Police,2770,WV,IL,1,FEMALE,100/300,2770,Toyota,1,own-child,N
+Total Loss,0,NO,32900,1,42300,camping,Rear Collision,Hillsdale,Other,4700,NC,IL,2,MALE,100/300,4700,Saab,1,wife,N
+Total Loss,4000000,YES,63280,2,87010,dancing,Front Collision,Northbend,Police,15820,NY,OH,2,FEMALE,100/300,7910,Ford,1,other-relative,N
+Major Damage,0,YES,79560,2,114920,skydiving,Front Collision,Springfield,Fire,17680,SC,OH,1,FEMALE,100/300,17680,Audi,3,other-relative,N
+Total Loss,3000000,YES,42390,0,56520,reading,Rear Collision,Northbend,Ambulance,9420,SC,OH,1,MALE,500/1000,4710,Saab,1,wife,N
+Minor Damage,0,NO,5040,1,7280,bungie-jumping,,Springfield,,1120,SC,OH,1,FEMALE,100/300,1120,Toyota,1,wife,N
+Total Loss,0,NO,33600,2,46200,board-games,Rear Collision,Springfield,Police,8400,SC,OH,0,FEMALE,250/500,4200,Dodge,1,not-in-family,Y
+Major Damage,0,YES,42080,0,63120,movies,Side Collision,Hillsdale,Other,10520,WV,IN,0,FEMALE,100/300,10520,Accura,4,other-relative,Y
+Major Damage,5000000,,40530,2,52110,hiking,Rear Collision,Riverwood,Other,5790,NY,OH,1,MALE,500/1000,5790,Nissan,3,own-child,N
+Total Loss,6000000,NO,56640,2,77880,reading,Side Collision,Northbend,Police,7080,WV,IN,0,MALE,500/1000,14160,Suburu,1,unmarried,N
+Total Loss,0,YES,53040,0,72930,yachting,Side Collision,Northbrook,Other,13260,NY,OH,1,FEMALE,500/1000,6630,Accura,1,other-relative,N
+Major Damage,0,,48320,0,60400,camping,Side Collision,Columbus,Police,6040,VA,IN,2,FEMALE,500/1000,6040,Nissan,3,own-child,N
+Minor Damage,4000000,NO,41920,0,47160,bungie-jumping,Rear Collision,Columbus,Police,5240,NY,IN,1,MALE,250/500,0,Suburu,3,own-child,N
+Total Loss,0,,33110,2,37840,skydiving,Side Collision,Arlington,Police,4730,SC,IL,1,FEMALE,500/1000,0,Accura,3,own-child,N
+Major Damage,0,NO,47680,0,71520,paintball,Rear Collision,Hillsdale,Ambulance,5960,SC,IL,0,MALE,100/300,17880,Suburu,3,other-relative,Y
+Total Loss,0,,73620,2,98160,chess,Front Collision,Northbend,Ambulance,16360,WV,IN,2,MALE,100/300,8180,Dodge,1,own-child,Y
+Minor Damage,0,NO,56640,3,77880,kayaking,Rear Collision,Riverwood,Other,14160,VA,IN,1,MALE,100/300,7080,Ford,1,husband,N
+Major Damage,0,NO,44000,3,71500,polo,Rear Collision,Arlington,Other,11000,OH,OH,1,MALE,100/300,16500,Ford,3,own-child,Y
+Minor Damage,0,YES,6560,3,9020,golf,,Arlington,Police,820,PA,IN,1,MALE,100/300,1640,Toyota,1,own-child,N
+Minor Damage,3000000,YES,4160,1,5720,chess,,Northbrook,,520,VA,IN,2,MALE,100/300,1040,Suburu,1,not-in-family,Y
+Minor Damage,0,NO,46560,0,69840,kayaking,Side Collision,Northbend,Other,15520,SC,OH,1,FEMALE,100/300,7760,Dodge,1,not-in-family,N
+Minor Damage,0,NO,63450,2,91650,basketball,Rear Collision,Northbrook,Police,14100,SC,IL,2,FEMALE,500/1000,14100,Accura,1,unmarried,N
+Major Damage,0,NO,50400,0,75600,video-games,Side Collision,Columbus,Ambulance,12600,SC,IL,0,MALE,250/500,12600,Toyota,4,husband,N
+Major Damage,8000000,NO,52220,2,67140,reading,Side Collision,Riverwood,Police,7460,WV,IL,2,MALE,100/300,7460,Ford,3,husband,Y
+Total Loss,0,YES,23170,3,29790,yachting,Front Collision,Arlington,Police,3310,NY,IL,2,FEMALE,500/1000,3310,BMW,3,other-relative,N
+Major Damage,0,NO,49070,2,77110,video-games,Front Collision,Hillsdale,Ambulance,14020,NY,IL,1,MALE,100/300,14020,Suburu,3,wife,N
+Total Loss,0,YES,48600,1,64800,yachting,Side Collision,Hillsdale,Fire,5400,WV,IL,0,MALE,500/1000,10800,Audi,1,own-child,N
+Major Damage,6000000,YES,37170,0,53100,reading,Front Collision,Springfield,Other,5310,WV,OH,2,MALE,100/300,10620,Mercedes,1,not-in-family,Y
+Total Loss,0,,48160,1,60200,camping,Rear Collision,Northbrook,Police,6020,NY,IL,1,FEMALE,100/300,6020,Suburu,1,unmarried,Y
+Minor Damage,0,NO,3280,1,5330,golf,,Arlington,,820,WV,IL,1,FEMALE,500/1000,1230,Suburu,1,unmarried,N
+Major Damage,0,,43610,0,62300,bungie-jumping,Rear Collision,Hillsdale,Police,6230,NY,IN,2,FEMALE,500/1000,12460,Jeep,3,unmarried,N
+Major Damage,0,,38290,3,60170,video-games,Front Collision,Columbus,Ambulance,10940,NC,IN,0,MALE,250/500,10940,Nissan,1,wife,Y
+Minor Damage,0,NO,28000,2,40000,kayaking,Rear Collision,Columbus,Ambulance,4000,WV,IL,2,MALE,100/300,8000,BMW,1,not-in-family,N
+Major Damage,0,,64720,1,97080,chess,Side Collision,Northbrook,Police,16180,WV,IN,1,MALE,250/500,16180,BMW,1,unmarried,Y
+Minor Damage,0,YES,40180,0,51660,hiking,Side Collision,Springfield,Other,5740,SC,IL,1,FEMALE,500/1000,5740,Dodge,3,husband,N
+Total Loss,0,NO,39760,2,51120,reading,Rear Collision,Arlington,Other,5680,NC,OH,2,FEMALE,250/500,5680,Mercedes,1,own-child,N
+Minor Damage,0,YES,33840,2,56400,reading,Front Collision,Springfield,Other,11280,SC,IL,0,MALE,100/300,11280,Toyota,1,unmarried,N
+Total Loss,0,NO,48230,3,55120,yachting,Rear Collision,Arlington,Other,0,NY,IL,2,FEMALE,250/500,6890,Accura,3,husband,N
+Total Loss,0,YES,63090,1,77110,polo,Rear Collision,Northbend,Fire,14020,NC,IN,1,FEMALE,100/300,0,Honda,3,husband,N
+Major Damage,4000000,NO,50240,1,62800,kayaking,Front Collision,Arlington,Fire,6280,WV,OH,2,MALE,500/1000,6280,Audi,3,husband,Y
+Trivial Damage,8000000,,5670,0,7290,dancing,,Arlington,Police,810,NY,IN,2,FEMALE,500/1000,810,Volkswagen,1,other-relative,N
+Total Loss,0,NO,53620,0,76600,movies,Rear Collision,Springfield,Other,7660,WV,IL,0,FEMALE,100/300,15320,Mercedes,1,wife,N
+Minor Damage,7000000,,57260,3,81800,bungie-jumping,Front Collision,Riverwood,Fire,8180,NY,OH,0,MALE,250/500,16360,Nissan,3,own-child,N
+Trivial Damage,0,,5280,2,7260,polo,,Arlington,,660,NY,IL,1,FEMALE,100/300,1320,BMW,1,husband,N
+Minor Damage,0,,3440,1,4300,basketball,,Northbend,,430,WV,IN,2,MALE,100/300,430,Toyota,1,not-in-family,N
+Major Damage,0,YES,44870,0,70510,movies,Side Collision,Columbus,Police,12820,NC,IN,1,FEMALE,100/300,12820,Suburu,3,husband,N
+Minor Damage,0,NO,1680,1,2640,movies,,Northbend,Police,480,VA,OH,0,MALE,250/500,480,Ford,1,not-in-family,N
+Minor Damage,0,YES,55230,2,78900,skydiving,Rear Collision,Arlington,Fire,7890,NY,OH,1,MALE,100/300,15780,Chevrolet,1,not-in-family,N
+Major Damage,0,,50160,3,56430,chess,Front Collision,Columbus,Fire,6270,SC,IN,2,FEMALE,250/500,0,Honda,3,unmarried,N
+Minor Damage,0,NO,1800,3,2400,hiking,,Riverwood,,300,VA,IN,1,FEMALE,500/1000,300,Chevrolet,1,own-child,N
+Total Loss,0,YES,51170,1,65790,yachting,Front Collision,Riverwood,Ambulance,7310,WV,IL,0,MALE,250/500,7310,Saab,1,husband,N
+Minor Damage,0,NO,45760,1,62920,kayaking,Side Collision,Hillsdale,Police,5720,VA,OH,1,FEMALE,250/500,11440,Ford,3,own-child,N
+Major Damage,0,YES,54040,1,69480,base-jumping,Rear Collision,Springfield,Police,0,NY,IN,2,MALE,100/300,15440,Nissan,3,other-relative,Y
+Total Loss,0,NO,33210,3,44280,basketball,Side Collision,Springfield,Other,3690,OH,IL,0,MALE,500/1000,7380,Honda,3,husband,N
+Minor Damage,0,NO,39410,3,56300,bungie-jumping,Side Collision,Hillsdale,Other,11260,WV,IL,0,MALE,500/1000,5630,BMW,1,unmarried,N
+Major Damage,0,YES,51390,2,68520,video-games,Front Collision,Northbend,Fire,5710,WV,OH,2,MALE,500/1000,11420,Suburu,3,own-child,Y
+Total Loss,5000000,NO,45990,0,59130,chess,Rear Collision,Riverwood,Fire,6570,VA,OH,0,MALE,250/500,6570,Ford,3,not-in-family,Y
+Minor Damage,0,YES,61740,2,82320,chess,Front Collision,Arlington,Ambulance,6860,NY,IN,2,FEMALE,100/300,13720,Dodge,3,other-relative,Y
+Minor Damage,7000000,YES,62100,1,89700,paintball,Side Collision,Springfield,Fire,13800,SC,IN,0,FEMALE,250/500,13800,Audi,1,not-in-family,Y
+Minor Damage,0,NO,30160,1,33930,reading,Side Collision,Hillsdale,Fire,3770,WV,OH,1,FEMALE,250/500,0,BMW,3,unmarried,N
+Major Damage,0,NO,49840,3,68530,movies,Front Collision,Northbrook,Ambulance,6230,WV,OH,0,MALE,100/300,12460,Audi,1,own-child,N
+Minor Damage,0,NO,2580,1,4300,kayaking,,Riverwood,,860,NC,IN,0,MALE,500/1000,860,Ford,1,own-child,N
+Major Damage,0,,49680,3,68310,sleeping,Side Collision,Hillsdale,Other,6210,SC,OH,2,FEMALE,100/300,12420,Audi,2,own-child,Y
+Total Loss,0,NO,47670,2,61290,cross-fit,Front Collision,Northbrook,Other,6810,WV,OH,0,FEMALE,100/300,6810,Honda,1,not-in-family,Y
+Minor Damage,0,NO,27090,2,30100,paintball,Rear Collision,Arlington,Ambulance,0,NC,OH,1,FEMALE,250/500,3010,Chevrolet,1,husband,N
+Minor Damage,0,NO,42840,0,57120,golf,Rear Collision,Riverwood,Fire,4760,SC,IN,2,FEMALE,100/300,9520,Mercedes,3,not-in-family,N
+Minor Damage,0,YES,28620,0,42930,yachting,Side Collision,Springfield,Ambulance,4770,VA,IL,1,FEMALE,100/300,9540,BMW,3,wife,N
+Total Loss,0,NO,34140,0,51210,bungie-jumping,Front Collision,Riverwood,Ambulance,5690,SC,OH,2,FEMALE,100/300,11380,Ford,3,other-relative,N
+Minor Damage,0,NO,67050,1,89400,golf,Front Collision,Springfield,Fire,7450,NY,OH,1,FEMALE,500/1000,14900,Suburu,3,husband,N
+Total Loss,0,NO,38010,2,59730,dancing,Front Collision,Northbrook,Police,10860,WV,IN,0,MALE,250/500,10860,Audi,3,not-in-family,N
+Minor Damage,6000000,YES,5580,2,8060,kayaking,,Springfield,,1240,SC,OH,2,FEMALE,500/1000,1240,Saab,1,wife,N
+Major Damage,0,,50540,2,72200,polo,Rear Collision,Northbrook,Fire,7220,SC,OH,1,FEMALE,500/1000,14440,BMW,1,unmarried,Y
+Minor Damage,0,NO,30480,2,50800,paintball,Side Collision,Arlington,Ambulance,10160,NC,OH,1,MALE,250/500,10160,Accura,3,husband,N
+Trivial Damage,5000000,,4620,1,6600,video-games,,Northbrook,,1320,NC,OH,2,FEMALE,500/1000,660,Accura,1,wife,N
+Minor Damage,6000000,YES,5250,2,7500,bungie-jumping,,Northbrook,Police,1500,NY,IL,2,MALE,250/500,750,Nissan,1,other-relative,N
+Trivial Damage,0,NO,4130,3,6490,video-games,,Hillsdale,,1180,VA,IN,0,MALE,250/500,1180,Volkswagen,1,wife,N
+Major Damage,0,,44320,3,60940,movies,Side Collision,Hillsdale,Ambulance,11080,NY,IN,2,MALE,500/1000,5540,Audi,2,not-in-family,Y
+Major Damage,0,YES,40810,1,58300,board-games,Front Collision,Northbrook,Fire,11660,NY,OH,0,MALE,100/300,5830,Suburu,3,own-child,N
+Minor Damage,4000000,NO,45600,1,68400,yachting,Front Collision,Columbus,Other,11400,SC,IL,2,FEMALE,500/1000,11400,Ford,3,husband,N
+Total Loss,0,,40880,1,64240,yachting,Side Collision,Springfield,Fire,11680,VA,IL,2,FEMALE,500/1000,11680,BMW,1,own-child,N
+Trivial Damage,9000000,NO,3290,1,4700,kayaking,,Arlington,,470,WV,IL,0,FEMALE,500/1000,940,Dodge,1,not-in-family,N
+Major Damage,0,YES,39480,0,45120,exercise,Side Collision,Columbus,Other,5640,SC,IN,2,FEMALE,100/300,0,Accura,3,not-in-family,Y
+Total Loss,5000000,YES,46350,1,66950,board-games,Front Collision,Arlington,Fire,10300,SC,OH,1,FEMALE,250/500,10300,Saab,2,own-child,N
+Major Damage,4000000,NO,71520,3,98340,exercise,Side Collision,Columbus,Police,17880,NY,IL,0,FEMALE,250/500,8940,Honda,1,own-child,Y
+Trivial Damage,0,NO,4720,1,5900,yachting,,Springfield,,590,WV,IL,0,MALE,250/500,590,BMW,1,own-child,N
+Major Damage,0,NO,53010,1,70680,exercise,Front Collision,Riverwood,Ambulance,11780,NC,IN,1,FEMALE,100/300,5890,Ford,3,not-in-family,N
+Total Loss,0,NO,68160,0,93720,hiking,Rear Collision,Northbend,Ambulance,8520,SC,IL,1,FEMALE,100/300,17040,Mercedes,3,not-in-family,N
+Minor Damage,5000000,NO,5040,0,6930,exercise,,Northbrook,,630,OH,IL,2,FEMALE,100/300,1260,Toyota,1,husband,N
+Major Damage,0,YES,59670,3,72930,hiking,Side Collision,Springfield,Fire,6630,VA,IN,0,FEMALE,500/1000,6630,Dodge,1,not-in-family,Y
+Minor Damage,0,YES,50470,2,64890,skydiving,Rear Collision,Hillsdale,Other,7210,SC,IL,1,MALE,250/500,7210,Nissan,4,own-child,Y
+Trivial Damage,0,,3600,2,5400,kayaking,,Columbus,,900,WV,OH,1,FEMALE,250/500,900,Saab,1,wife,N
+Trivial Damage,0,NO,4200,0,5600,reading,,Northbrook,,700,NC,IL,0,MALE,100/300,700,Audi,1,not-in-family,N
+Minor Damage,0,YES,47580,0,79300,yachting,Rear Collision,Northbend,Police,15860,SC,IN,0,FEMALE,100/300,15860,Saab,1,not-in-family,N
+Major Damage,0,YES,36960,0,52800,exercise,Side Collision,Northbend,Police,5280,WV,IL,1,FEMALE,100/300,10560,Saab,1,unmarried,N
+Minor Damage,0,,25200,3,28800,bungie-jumping,Front Collision,Northbrook,Fire,3600,NC,IL,2,FEMALE,250/500,0,Ford,3,husband,N
+Minor Damage,0,NO,2310,1,2970,kayaking,,Northbend,Police,330,WV,OH,1,FEMALE,100/300,330,Toyota,1,other-relative,N
+Total Loss,0,NO,70110,0,93480,basketball,Side Collision,Northbend,Police,7790,SC,OH,0,MALE,500/1000,15580,Chevrolet,3,wife,N
+Minor Damage,0,YES,3360,3,4320,kayaking,,Columbus,,480,WV,IL,1,MALE,100/300,480,Mercedes,1,husband,N
+Major Damage,0,,53200,2,79800,basketball,Rear Collision,Northbend,Police,19950,VA,OH,0,FEMALE,500/1000,6650,Saab,3,husband,Y
+Major Damage,0,NO,51940,0,74200,camping,Front Collision,Columbus,Ambulance,14840,WV,IN,1,FEMALE,500/1000,7420,Volkswagen,2,own-child,N
+Major Damage,0,,48870,0,70590,basketball,Front Collision,Northbrook,Fire,10860,NY,IL,0,FEMALE,500/1000,10860,Saab,1,other-relative,Y
+Major Damage,0,NO,44320,3,60940,chess,Rear Collision,Springfield,Fire,11080,NY,IN,0,FEMALE,500/1000,5540,Nissan,3,husband,Y
+Minor Damage,0,,52290,2,74700,video-games,Rear Collision,Riverwood,Police,14940,SC,OH,1,FEMALE,250/500,7470,Dodge,1,unmarried,N
+Major Damage,6000000,YES,49000,0,70000,dancing,Front Collision,Springfield,Fire,7000,NC,IN,0,MALE,100/300,14000,Ford,1,unmarried,Y
+Total Loss,0,,51590,0,81070,polo,Rear Collision,Columbus,Other,14740,WV,IL,2,MALE,500/1000,14740,BMW,3,other-relative,N
+Major Damage,0,,33670,1,57720,camping,Side Collision,Hillsdale,Other,9620,VA,IN,1,MALE,100/300,14430,Saab,2,own-child,N
+Minor Damage,0,YES,4720,1,7080,reading,,Northbrook,,1180,VA,OH,1,MALE,250/500,1180,Ford,1,other-relative,N
+Total Loss,10000000,NO,33390,1,47700,hiking,Side Collision,Riverwood,Other,9540,NY,IN,0,MALE,100/300,4770,Accura,3,other-relative,Y
+Minor Damage,0,NO,32620,3,51260,bungie-jumping,Rear Collision,Hillsdale,Police,9320,SC,IL,0,FEMALE,500/1000,9320,Suburu,1,other-relative,N
+Major Damage,0,,51200,2,70400,exercise,Side Collision,Northbend,Police,12800,NY,OH,2,MALE,500/1000,6400,Toyota,3,unmarried,Y
+Minor Damage,0,NO,63000,3,90000,yachting,Rear Collision,Hillsdale,Fire,9000,NY,IL,1,FEMALE,250/500,18000,Ford,1,not-in-family,N
+Minor Damage,8000000,,52960,1,72820,camping,Rear Collision,Arlington,Police,6620,NY,OH,0,FEMALE,250/500,13240,BMW,3,husband,N
+Minor Damage,4000000,NO,41580,0,69300,board-games,Side Collision,Hillsdale,Fire,13860,SC,IL,2,MALE,500/1000,13860,Volkswagen,1,other-relative,N
+Major Damage,4000000,NO,51040,1,76560,video-games,Front Collision,Northbrook,Ambulance,12760,NY,IL,2,FEMALE,500/1000,12760,Ford,1,other-relative,Y
+Major Damage,0,,49280,1,55440,skydiving,Front Collision,Columbus,Ambulance,6160,VA,IL,0,FEMALE,250/500,0,Nissan,1,not-in-family,Y
+Total Loss,0,YES,51420,0,77130,movies,Front Collision,Arlington,Other,17140,NC,OH,1,FEMALE,250/500,8570,Accura,4,other-relative,N
+Total Loss,0,YES,28000,1,42000,paintball,Rear Collision,Northbend,Ambulance,7000,WV,IL,1,FEMALE,100/300,7000,BMW,1,not-in-family,N
+Total Loss,6000000,NO,23100,3,36300,dancing,Rear Collision,Hillsdale,Ambulance,9900,NY,IN,2,MALE,250/500,3300,Ford,3,unmarried,N
+Total Loss,0,NO,28800,0,40320,video-games,Side Collision,Columbus,Other,5760,WV,IL,0,MALE,100/300,5760,Suburu,1,unmarried,N
+Minor Damage,0,,2970,0,3960,exercise,,Northbrook,Police,660,PA,IN,2,FEMALE,500/1000,330,BMW,1,own-child,N
+Major Damage,0,YES,42560,3,63840,basketball,Front Collision,Northbend,Fire,10640,NY,OH,0,MALE,100/300,10640,BMW,1,wife,Y
+Major Damage,6000000,,34790,2,44730,sleeping,Front Collision,Northbend,Fire,4970,SC,IL,1,FEMALE,250/500,4970,Saab,3,husband,Y
+Minor Damage,0,YES,56480,2,84720,camping,Front Collision,Arlington,Other,14120,NY,IN,1,MALE,250/500,14120,Ford,3,wife,N
+Major Damage,0,,43050,2,61500,paintball,Front Collision,Columbus,Other,12300,WV,IN,2,MALE,250/500,6150,Dodge,3,own-child,N
+Major Damage,0,,34000,1,51000,exercise,Front Collision,Arlington,Ambulance,8500,NC,OH,0,FEMALE,100/300,8500,Nissan,3,unmarried,N
+Total Loss,0,,32760,1,46800,skydiving,Side Collision,Northbend,Police,9360,WV,IL,2,FEMALE,500/1000,4680,Jeep,1,wife,N
+Minor Damage,0,,52080,1,78120,basketball,Side Collision,Northbend,Ambulance,8680,WV,OH,1,MALE,250/500,17360,BMW,1,unmarried,N
+Major Damage,0,NO,48440,2,69200,yachting,Rear Collision,Springfield,Police,6920,NY,IN,1,FEMALE,250/500,13840,Volkswagen,1,other-relative,Y
+Minor Damage,0,,2870,0,3690,exercise,,Riverwood,Police,410,VA,IL,0,FEMALE,100/300,410,Ford,1,other-relative,N
+Minor Damage,0,NO,52400,3,65500,golf,Rear Collision,Springfield,Fire,6550,SC,IL,0,FEMALE,250/500,6550,BMW,3,not-in-family,N
+Minor Damage,0,,55360,2,76120,basketball,Rear Collision,Springfield,Fire,6920,NC,IL,1,FEMALE,500/1000,13840,Toyota,3,wife,N
+Total Loss,0,NO,49040,2,73560,hiking,Front Collision,Springfield,Other,12260,VA,IL,0,FEMALE,250/500,12260,BMW,3,not-in-family,N
+Total Loss,0,YES,37840,1,52030,camping,Rear Collision,Northbend,Police,4730,NY,OH,0,MALE,100/300,9460,Mercedes,1,other-relative,N
+Trivial Damage,0,,3760,3,5170,video-games,,Northbrook,,940,SC,IL,2,MALE,500/1000,470,Suburu,1,wife,N
+Minor Damage,0,,5040,1,8190,video-games,,Northbend,,1260,SC,IN,2,MALE,250/500,1890,Chevrolet,1,own-child,N
+Major Damage,6000000,,49560,3,70800,yachting,Rear Collision,Springfield,Ambulance,14160,SC,IN,2,MALE,250/500,7080,Accura,1,other-relative,Y
+Total Loss,0,,35490,3,45630,video-games,Rear Collision,Springfield,Police,5070,WV,IL,0,FEMALE,500/1000,5070,Accura,3,wife,N
+Major Damage,0,YES,76400,1,99320,cross-fit,Front Collision,Northbrook,Police,15280,NC,OH,2,FEMALE,100/300,7640,Accura,1,wife,Y
+Major Damage,4000000,,44800,0,64000,polo,Side Collision,Northbend,Fire,6400,NC,IL,2,MALE,500/1000,12800,BMW,3,not-in-family,Y
+Minor Damage,0,,37840,1,47300,golf,Front Collision,Northbrook,Fire,4730,WV,OH,1,FEMALE,100/300,4730,Nissan,1,other-relative,N
+Major Damage,0,NO,53760,3,71680,reading,Rear Collision,Springfield,Other,8960,SC,IL,2,MALE,100/300,8960,Volkswagen,1,not-in-family,Y
+Major Damage,0,,77760,0,112320,skydiving,Side Collision,Springfield,Other,17280,SC,OH,1,FEMALE,250/500,17280,Suburu,1,not-in-family,Y
+Total Loss,0,,60160,0,82720,base-jumping,Side Collision,Columbus,Other,15040,NY,OH,1,FEMALE,100/300,7520,Audi,1,wife,N
+Major Damage,0,,32040,1,48060,polo,Rear Collision,Hillsdale,Fire,5340,NC,IL,2,MALE,100/300,10680,Mercedes,3,husband,N
+Total Loss,0,YES,44010,3,63570,kayaking,Rear Collision,Riverwood,Police,9780,NY,IN,1,MALE,250/500,9780,Volkswagen,3,own-child,Y
+Total Loss,0,NO,42160,3,63240,paintball,Rear Collision,Columbus,Fire,10540,WV,OH,2,FEMALE,100/300,10540,Suburu,3,own-child,N
+Minor Damage,7000000,NO,36160,3,54240,reading,Rear Collision,Northbrook,Ambulance,9040,NC,OH,1,FEMALE,100/300,9040,Saab,3,own-child,Y
+Major Damage,0,YES,37280,3,37280,bungie-jumping,Front Collision,Riverwood,Police,0,NY,OH,2,MALE,100/300,0,Audi,1,other-relative,Y
+Minor Damage,0,,50470,1,72100,exercise,Rear Collision,Columbus,Police,14420,NY,OH,2,MALE,100/300,7210,Jeep,3,husband,N
+Minor Damage,7000000,,4550,3,6500,hiking,,Northbend,,650,WV,IN,2,FEMALE,250/500,1300,Saab,1,other-relative,N
+Total Loss,0,,52160,0,78240,movies,Front Collision,Springfield,Ambulance,13040,WV,IN,2,MALE,100/300,13040,Suburu,3,not-in-family,N
+Minor Damage,0,,4340,0,6200,video-games,,Columbus,Police,620,NY,OH,2,FEMALE,100/300,1240,Honda,1,other-relative,N
+Minor Damage,0,YES,3920,3,6160,reading,,Springfield,Police,1680,VA,IN,2,FEMALE,500/1000,560,Mercedes,1,unmarried,N
+Total Loss,7000000,,52650,0,76050,dancing,Front Collision,Northbrook,Ambulance,11700,SC,IN,2,FEMALE,500/1000,11700,Chevrolet,1,not-in-family,N
+Total Loss,0,NO,59580,1,86060,polo,Side Collision,Hillsdale,Ambulance,13240,NY,OH,2,FEMALE,500/1000,13240,Volkswagen,2,unmarried,N
+Major Damage,0,YES,75530,0,107900,sleeping,Front Collision,Arlington,Fire,21580,SC,OH,2,FEMALE,500/1000,10790,Dodge,1,not-in-family,Y
+Total Loss,0,NO,63630,0,99990,polo,Rear Collision,Columbus,Fire,18180,PA,IL,2,FEMALE,250/500,18180,Mercedes,3,unmarried,N
+Minor Damage,0,NO,44640,2,61380,bungie-jumping,Side Collision,Columbus,Ambulance,5580,WV,IN,2,FEMALE,500/1000,11160,Suburu,3,not-in-family,N
+Major Damage,0,,45360,1,71280,board-games,Rear Collision,Riverwood,Fire,12960,WV,OH,2,FEMALE,250/500,12960,Audi,1,unmarried,Y
+Minor Damage,0,NO,44800,0,64000,yachting,Front Collision,Northbend,Ambulance,6400,NY,IL,0,MALE,500/1000,12800,Saab,3,unmarried,N
+Trivial Damage,0,,4620,1,5940,bungie-jumping,,Hillsdale,Police,660,SC,IL,0,FEMALE,250/500,660,Toyota,1,husband,N
+Minor Damage,0,NO,5360,0,6700,movies,,Hillsdale,,670,NY,IN,1,MALE,250/500,670,Jeep,1,not-in-family,N
+Minor Damage,0,YES,31840,0,51740,hiking,Rear Collision,Arlington,Police,7960,NY,IL,0,MALE,250/500,11940,Jeep,3,not-in-family,N
+Total Loss,0,,40200,1,53600,hiking,Rear Collision,Riverwood,Ambulance,6700,PA,OH,0,MALE,250/500,6700,Volkswagen,1,husband,Y
+Total Loss,0,YES,34930,0,44910,board-games,Rear Collision,Arlington,Other,4990,SC,IL,1,MALE,250/500,4990,Dodge,3,wife,N
+Major Damage,4000000,,29600,2,48100,kayaking,Front Collision,Hillsdale,Fire,7400,PA,IN,0,FEMALE,250/500,11100,Volkswagen,3,wife,N
+Trivial Damage,0,NO,4270,1,6100,kayaking,,Riverwood,,1220,WV,IL,0,FEMALE,100/300,610,Ford,1,unmarried,N
+Minor Damage,6000000,,47760,0,79600,board-games,Rear Collision,Hillsdale,Other,15920,PA,IN,1,MALE,100/300,15920,Jeep,1,wife,N
+Minor Damage,0,NO,59920,1,77040,dancing,Front Collision,Hillsdale,Ambulance,8560,OH,IN,1,MALE,100/300,8560,Honda,1,other-relative,N
+Minor Damage,0,YES,39830,1,62590,kayaking,Rear Collision,Columbus,Fire,11380,SC,IL,0,FEMALE,250/500,11380,Volkswagen,1,other-relative,N
+Total Loss,0,YES,58950,1,85150,skydiving,Front Collision,Northbend,Other,13100,WV,IN,0,FEMALE,500/1000,13100,Chevrolet,1,other-relative,N
+Trivial Damage,4000000,,3600,1,4950,exercise,,Hillsdale,,900,NY,IL,2,MALE,100/300,450,Chevrolet,1,wife,N
+Major Damage,0,,35770,0,51100,basketball,Side Collision,Riverwood,Fire,5110,VA,OH,2,MALE,500/1000,10220,Audi,3,not-in-family,N
+Minor Damage,0,YES,67200,3,100800,reading,Side Collision,Springfield,Police,16800,SC,IL,2,FEMALE,500/1000,16800,Dodge,1,not-in-family,N
+Total Loss,4000000,YES,57890,3,90970,exercise,Side Collision,Springfield,Police,16540,VA,IN,2,FEMALE,250/500,16540,Accura,1,husband,N
+Minor Damage,7000000,,59520,1,81840,cross-fit,Rear Collision,Northbend,Police,7440,SC,OH,1,MALE,100/300,14880,Chevrolet,1,other-relative,Y
+Major Damage,7000000,,43920,2,54900,sleeping,Front Collision,Northbend,Ambulance,5490,NY,OH,0,MALE,100/300,5490,Mercedes,1,not-in-family,N
+Total Loss,7000000,YES,64480,3,88660,cross-fit,Front Collision,Northbend,Fire,16120,NY,OH,2,MALE,500/1000,8060,Mercedes,1,husband,Y
+Total Loss,0,,13500,1,18000,bungie-jumping,Front Collision,Riverwood,Ambulance,2250,NC,IL,1,FEMALE,100/300,2250,Audi,3,unmarried,N
+Minor Damage,0,YES,3850,3,5500,exercise,,Northbrook,Police,550,NY,IN,1,FEMALE,250/500,1100,Chevrolet,1,other-relative,N
+Major Damage,5000000,,53760,0,73920,hiking,Rear Collision,Hillsdale,Other,6720,WV,IN,1,FEMALE,100/300,13440,Honda,3,own-child,Y
+Total Loss,0,NO,64820,2,101860,polo,Rear Collision,Columbus,Ambulance,18520,VA,OH,0,FEMALE,500/1000,18520,Honda,1,other-relative,N
+Minor Damage,0,YES,3430,1,5390,movies,,Riverwood,,980,SC,OH,0,MALE,250/500,980,Volkswagen,1,own-child,N
+Minor Damage,0,,39270,2,50490,hiking,Side Collision,Springfield,Police,5610,SC,IN,1,MALE,250/500,5610,Nissan,1,unmarried,N
+Total Loss,0,NO,38850,3,55500,basketball,Front Collision,Arlington,Police,11100,SC,OH,0,FEMALE,100/300,5550,Mercedes,1,unmarried,N
+Minor Damage,0,YES,5120,1,7040,hiking,,Hillsdale,Police,640,VA,OH,1,MALE,500/1000,1280,Nissan,1,husband,N
+Total Loss,4000000,,35140,1,40160,basketball,Rear Collision,Northbrook,Other,0,VA,IL,0,MALE,250/500,5020,Chevrolet,3,not-in-family,N
+Total Loss,0,YES,41760,3,55680,bungie-jumping,Side Collision,Columbus,Fire,6960,NC,IL,2,MALE,500/1000,6960,Saab,2,husband,N
+Trivial Damage,0,,4240,1,5300,skydiving,,Springfield,Police,530,WV,IN,1,MALE,250/500,530,Jeep,1,own-child,Y
+Trivial Damage,0,YES,3900,3,5200,camping,,Arlington,,650,WV,OH,0,FEMALE,250/500,650,Accura,1,not-in-family,N
+Major Damage,0,YES,41580,1,59400,bungie-jumping,Front Collision,Riverwood,Ambulance,11880,NY,IL,2,MALE,250/500,5940,Honda,1,own-child,N
+Minor Damage,0,,1960,1,2520,paintball,,Arlington,Police,280,SC,OH,1,FEMALE,100/300,280,BMW,1,other-relative,N
+Trivial Damage,0,NO,3840,1,5760,golf,,Hillsdale,Police,960,NY,IL,2,MALE,250/500,960,Suburu,1,not-in-family,N
+Minor Damage,0,,61360,0,76700,base-jumping,Rear Collision,Hillsdale,Fire,7670,WV,OH,2,MALE,250/500,7670,Suburu,1,not-in-family,N
+Trivial Damage,7000000,NO,4440,2,5920,board-games,,Springfield,Police,740,NY,IN,0,FEMALE,250/500,740,Chevrolet,1,unmarried,N
+Major Damage,0,YES,50050,3,64350,paintball,Rear Collision,Riverwood,Fire,7150,SC,IL,0,MALE,100/300,7150,Chevrolet,3,wife,N
+Total Loss,0,NO,12720,2,19080,kayaking,Rear Collision,Northbend,Ambulance,2120,WV,IL,1,MALE,250/500,4240,Saab,3,husband,N
+Minor Damage,0,NO,43520,1,54400,exercise,Rear Collision,Springfield,Police,5440,SC,OH,2,FEMALE,500/1000,5440,BMW,1,not-in-family,N
+Total Loss,0,,47840,0,59800,chess,Rear Collision,Columbus,Fire,5980,SC,OH,1,FEMALE,100/300,5980,Ford,1,other-relative,Y
+Major Damage,0,,57600,3,72000,golf,Side Collision,Springfield,Police,7200,VA,OH,0,MALE,500/1000,7200,Audi,3,husband,N
+Total Loss,3000000,NO,43380,3,65070,hiking,Side Collision,Riverwood,Police,14460,SC,IN,2,MALE,250/500,7230,Mercedes,4,husband,N
+Trivial Damage,0,NO,6160,1,8800,reading,,Columbus,Police,880,WV,IN,0,MALE,250/500,1760,Suburu,1,not-in-family,N
+Minor Damage,0,NO,4080,0,6120,movies,,Hillsdale,Police,1020,NC,OH,2,FEMALE,250/500,1020,Toyota,1,other-relative,N
+Trivial Damage,0,,5310,2,7080,skydiving,,Columbus,,590,OH,IN,1,MALE,500/1000,1180,Dodge,1,not-in-family,N
+Minor Damage,6000000,YES,21450,3,34320,yachting,Side Collision,Riverwood,Ambulance,4290,NY,OH,2,MALE,100/300,8580,Volkswagen,3,other-relative,N
+Major Damage,0,,34020,0,53460,reading,Side Collision,Springfield,Other,9720,SC,OH,1,FEMALE,500/1000,9720,Dodge,3,wife,Y
+Total Loss,5000000,YES,61020,3,81360,cross-fit,Side Collision,Columbus,Other,13560,NC,IN,1,FEMALE,100/300,6780,Suburu,1,wife,Y
+Minor Damage,0,,58960,2,81070,bungie-jumping,Side Collision,Springfield,Ambulance,14740,NC,OH,1,MALE,100/300,7370,Audi,3,other-relative,Y
+Minor Damage,0,NO,47340,2,63120,base-jumping,Front Collision,Columbus,Fire,10520,NY,IL,2,FEMALE,100/300,5260,Audi,1,unmarried,N
+Trivial Damage,0,,5040,1,7200,yachting,,Springfield,,720,NC,OH,2,MALE,250/500,1440,BMW,1,not-in-family,N
+Total Loss,0,,51120,3,70290,exercise,Rear Collision,Hillsdale,Other,6390,WV,IL,2,FEMALE,500/1000,12780,Saab,1,not-in-family,Y
+Minor Damage,6000000,NO,41670,0,60190,camping,Side Collision,Northbrook,Fire,9260,SC,OH,1,MALE,100/300,9260,BMW,3,other-relative,N
+Major Damage,0,YES,44640,2,61380,base-jumping,Front Collision,Hillsdale,Other,5580,NY,OH,1,MALE,250/500,11160,Honda,1,other-relative,Y
+Minor Damage,0,NO,19670,2,28100,exercise,Front Collision,Springfield,Ambulance,5620,NY,OH,2,FEMALE,250/500,2810,Jeep,1,own-child,N
+Total Loss,0,YES,31220,0,49060,yachting,Side Collision,Hillsdale,Fire,8920,NY,IL,0,FEMALE,500/1000,8920,Chevrolet,1,husband,N
+Total Loss,4000000,,44380,1,57060,board-games,Side Collision,Columbus,Fire,6340,NY,IL,1,MALE,250/500,6340,Mercedes,3,wife,N
+Major Damage,0,,51920,3,77880,kayaking,Side Collision,Arlington,Fire,12980,VA,IN,0,FEMALE,100/300,12980,Accura,3,not-in-family,N
+Total Loss,0,YES,51450,1,73500,basketball,Front Collision,Springfield,Ambulance,14700,NY,IN,0,MALE,500/1000,7350,Jeep,1,unmarried,N
+Minor Damage,7000000,YES,68400,0,88920,paintball,Rear Collision,Riverwood,Other,13680,NY,IL,2,FEMALE,250/500,6840,Accura,2,own-child,N
+Major Damage,0,,30310,2,47630,bungie-jumping,Front Collision,Arlington,Other,4330,NY,IL,0,FEMALE,500/1000,12990,Toyota,1,not-in-family,Y
+Total Loss,0,YES,45920,3,59040,kayaking,Front Collision,Hillsdale,Fire,6560,WV,IL,1,FEMALE,100/300,6560,Saab,3,unmarried,N
+Minor Damage,0,,57840,3,79530,dancing,Rear Collision,Columbus,Other,7230,SC,IL,0,FEMALE,250/500,14460,Accura,1,other-relative,N
+Total Loss,0,NO,43920,2,53680,base-jumping,Side Collision,Columbus,Other,4880,NY,OH,0,FEMALE,100/300,4880,Honda,1,wife,N
+Minor Damage,6000000,NO,24400,3,33550,dancing,Side Collision,Arlington,Police,6100,SC,OH,2,MALE,500/1000,3050,Volkswagen,1,own-child,N
+Total Loss,0,,55280,1,69100,exercise,Side Collision,Springfield,Other,6910,WV,IN,2,FEMALE,250/500,6910,Toyota,4,husband,N
+Major Damage,0,,50750,0,79750,paintball,Rear Collision,Hillsdale,Police,14500,OH,IL,2,MALE,100/300,14500,Nissan,3,own-child,N
+Major Damage,0,,37520,2,53600,polo,Front Collision,Riverwood,Other,10720,PA,IN,0,MALE,100/300,5360,Audi,3,other-relative,Y
+Minor Damage,0,NO,57420,0,76560,kayaking,Side Collision,Riverwood,Fire,6380,NY,IN,1,MALE,100/300,12760,Nissan,3,unmarried,N
+Total Loss,3000000,YES,31990,1,41130,golf,Front Collision,Arlington,Fire,4570,NY,IN,1,MALE,100/300,4570,Dodge,1,unmarried,N
+Total Loss,0,NO,57200,3,78650,cross-fit,Rear Collision,Columbus,Fire,7150,SC,IL,2,MALE,500/1000,14300,Audi,3,own-child,Y
+Major Damage,0,,51680,1,71060,reading,Side Collision,Springfield,Other,12920,NY,OH,1,FEMALE,500/1000,6460,Saab,1,own-child,N
+Minor Damage,0,YES,31770,1,38830,dancing,Front Collision,Northbrook,Fire,3530,WV,IN,1,FEMALE,500/1000,3530,Suburu,1,own-child,N
+Major Damage,0,,42800,0,53500,cross-fit,Front Collision,Riverwood,Fire,5350,SC,IL,0,FEMALE,250/500,5350,Saab,1,own-child,N
+Major Damage,0,YES,58960,0,73700,skydiving,Front Collision,Columbus,Other,7370,VA,IL,2,FEMALE,100/300,7370,Chevrolet,1,other-relative,Y
+Trivial Damage,0,,5040,1,6300,camping,,Hillsdale,,630,SC,OH,2,FEMALE,500/1000,630,Nissan,1,other-relative,N
+Total Loss,0,,43600,2,65400,paintball,Rear Collision,Riverwood,Ambulance,10900,NY,IL,2,FEMALE,100/300,10900,Dodge,3,own-child,N
+Trivial Damage,0,YES,2240,2,3200,board-games,,Springfield,,320,PA,OH,1,MALE,250/500,640,Mercedes,1,other-relative,N
+Major Damage,0,YES,52780,3,75400,golf,Rear Collision,Arlington,Fire,15080,NY,IN,0,FEMALE,500/1000,7540,Dodge,1,other-relative,Y
+Minor Damage,0,YES,45220,2,58140,golf,Side Collision,Northbend,Fire,6460,NY,IL,0,FEMALE,250/500,6460,Saab,1,not-in-family,N
+Total Loss,4000000,,68310,1,98670,chess,Rear Collision,Columbus,Ambulance,15180,SC,OH,0,FEMALE,100/300,15180,Chevrolet,3,own-child,Y
+Minor Damage,0,,4130,3,5900,golf,,Hillsdale,,590,SC,IL,0,MALE,250/500,1180,Mercedes,1,other-relative,N
+Major Damage,0,,51280,3,64100,paintball,Rear Collision,Arlington,Fire,6410,NC,IN,1,FEMALE,250/500,6410,Chevrolet,1,other-relative,N
+Total Loss,0,YES,40320,1,55440,yachting,Rear Collision,Springfield,Fire,10080,SC,OH,0,FEMALE,250/500,5040,Suburu,2,unmarried,Y
+Major Damage,5000000,NO,58800,2,80850,yachting,Side Collision,Northbend,Police,14700,SC,OH,1,MALE,250/500,7350,Ford,3,other-relative,Y
+Trivial Damage,0,YES,6120,1,7480,bungie-jumping,,Springfield,Police,680,WV,OH,1,FEMALE,100/300,680,Saab,1,husband,N
+Major Damage,0,,41720,3,53640,movies,Side Collision,Riverwood,Fire,5960,OH,OH,2,MALE,250/500,5960,Nissan,1,wife,Y
+Major Damage,0,NO,46000,2,63250,base-jumping,Rear Collision,Northbrook,Fire,11500,SC,OH,2,FEMALE,500/1000,5750,Chevrolet,3,wife,Y
+Major Damage,7000000,NO,39360,1,59040,golf,Side Collision,Hillsdale,Ambulance,9840,NY,IL,0,FEMALE,100/300,9840,Dodge,3,own-child,N
+Total Loss,0,YES,35350,0,50500,base-jumping,Side Collision,Arlington,Other,5050,SC,IL,1,MALE,250/500,10100,Accura,3,other-relative,N
+Major Damage,0,YES,38460,1,57690,cross-fit,Side Collision,Columbus,Police,12820,SC,OH,0,MALE,500/1000,6410,Mercedes,1,other-relative,Y
+Trivial Damage,0,YES,4620,3,5940,base-jumping,,Springfield,Police,660,NY,IL,1,FEMALE,100/300,660,Toyota,1,husband,N
+Major Damage,0,,37170,2,47790,dancing,Rear Collision,Northbend,Fire,5310,SC,OH,0,FEMALE,250/500,5310,Suburu,3,unmarried,Y
+Trivial Damage,0,,3150,1,3850,skydiving,,Riverwood,,350,SC,OH,0,FEMALE,250/500,350,Dodge,1,other-relative,N
+Major Damage,0,,47200,0,59000,reading,Front Collision,Arlington,Police,5900,NC,IL,2,MALE,100/300,5900,Ford,1,husband,Y
+Major Damage,8000000,NO,49420,1,70600,golf,Rear Collision,Arlington,Ambulance,14120,NY,OH,0,MALE,250/500,7060,Volkswagen,3,husband,Y
+Minor Damage,7000000,,44720,1,61490,base-jumping,Side Collision,Hillsdale,Police,11180,SC,IN,1,MALE,500/1000,5590,Dodge,3,other-relative,N
+Minor Damage,0,NO,41920,0,57640,kayaking,Side Collision,Northbend,Police,10480,SC,IL,1,FEMALE,500/1000,5240,Volkswagen,1,wife,N
+Trivial Damage,0,NO,4770,0,6890,movies,,Hillsdale,Police,1060,NC,IL,1,FEMALE,250/500,1060,Audi,1,own-child,N
+Major Damage,0,,35520,2,53280,hiking,Side Collision,Columbus,Fire,5920,PA,IL,2,MALE,250/500,11840,Toyota,3,wife,Y
+Minor Damage,0,NO,54810,0,78300,video-games,Rear Collision,Springfield,Fire,7830,SC,IN,0,FEMALE,500/1000,15660,BMW,3,unmarried,N
+Major Damage,0,YES,32270,3,41490,reading,Rear Collision,Springfield,Ambulance,4610,PA,OH,0,MALE,100/300,4610,Nissan,3,other-relative,N
+Total Loss,0,YES,50160,3,68970,camping,Front Collision,Hillsdale,Fire,6270,SC,IN,2,FEMALE,100/300,12540,Chevrolet,3,wife,N
+Minor Damage,0,,59710,0,85300,camping,Rear Collision,Arlington,Police,8530,VA,OH,2,MALE,250/500,17060,Toyota,3,husband,N
+Minor Damage,0,NO,2240,0,3080,camping,,Hillsdale,,280,NY,IL,0,FEMALE,100/300,560,Audi,1,wife,N
+Major Damage,0,YES,49680,0,71760,paintball,Front Collision,Arlington,Police,11040,WV,IL,2,MALE,100/300,11040,Jeep,4,other-relative,Y
+Minor Damage,0,,35820,0,59700,skydiving,Rear Collision,Arlington,Ambulance,11940,NY,OH,1,FEMALE,100/300,11940,Nissan,3,wife,N
+Minor Damage,0,NO,43280,2,64920,skydiving,Front Collision,Columbus,Fire,10820,NY,IL,0,FEMALE,500/1000,10820,Ford,3,other-relative,N
+Major Damage,0,,29190,1,37530,board-games,Front Collision,Riverwood,Ambulance,4170,SC,IN,0,FEMALE,500/1000,4170,Jeep,3,own-child,N
+Total Loss,0,YES,49840,2,64080,paintball,Side Collision,Columbus,Ambulance,7120,WV,IN,1,MALE,250/500,7120,Saab,3,husband,N
+Minor Damage,0,NO,43920,0,60390,cross-fit,Rear Collision,Northbrook,Other,5490,PA,OH,1,MALE,100/300,10980,BMW,1,unmarried,Y
+Major Damage,0,,46800,1,64350,exercise,Side Collision,Northbend,Police,11700,WV,IL,0,FEMALE,100/300,5850,Nissan,3,not-in-family,Y
+Minor Damage,6000000,YES,49630,1,70900,sleeping,Side Collision,Northbend,Police,7090,SC,IL,2,FEMALE,100/300,14180,BMW,3,own-child,N
+Minor Damage,0,NO,31040,3,46560,movies,Side Collision,Columbus,Fire,7760,PA,OH,1,FEMALE,250/500,7760,Nissan,3,unmarried,N
+Trivial Damage,0,NO,3010,1,4730,cross-fit,,Arlington,Police,860,NY,IN,2,FEMALE,100/300,860,Chevrolet,1,wife,Y
+Minor Damage,0,YES,4340,0,6820,video-games,,Northbrook,Police,1240,SC,OH,0,FEMALE,250/500,1240,Jeep,1,not-in-family,N
+Major Damage,5000000,,41930,2,59900,sleeping,Rear Collision,Riverwood,Police,5990,WV,OH,0,MALE,250/500,11980,BMW,1,other-relative,Y
+Major Damage,0,,53040,3,79560,basketball,Side Collision,Riverwood,Police,13260,WV,OH,1,FEMALE,250/500,13260,Ford,3,own-child,N
+Total Loss,0,YES,51120,1,70290,kayaking,Front Collision,Northbrook,Other,6390,VA,IL,0,FEMALE,500/1000,12780,Accura,1,not-in-family,N
+Total Loss,6000000,YES,46480,0,63910,hiking,Rear Collision,Hillsdale,Ambulance,11620,SC,IN,2,MALE,100/300,5810,Suburu,3,not-in-family,N
+Trivial Damage,0,,5120,0,6400,golf,,Riverwood,,640,SC,OH,1,FEMALE,100/300,640,Toyota,1,not-in-family,N
+Major Damage,0,YES,51940,2,66780,movies,Rear Collision,Northbrook,Ambulance,7420,SC,IN,1,FEMALE,250/500,7420,Ford,1,husband,Y
+Minor Damage,4000000,NO,5840,2,8760,hiking,,Northbrook,Police,1460,VA,IN,0,FEMALE,500/1000,1460,BMW,1,own-child,N
+Major Damage,-1000000,YES,68480,1,94160,kayaking,Side Collision,Arlington,Ambulance,17120,NC,OH,0,MALE,100/300,8560,Chevrolet,1,wife,N
+Total Loss,0,,34380,2,51570,golf,Front Collision,Springfield,Ambulance,11460,OH,IL,0,MALE,250/500,5730,BMW,3,other-relative,N
+Major Damage,0,,31620,0,52700,polo,Rear Collision,Northbend,Fire,10540,NC,IL,1,FEMALE,250/500,10540,BMW,3,husband,Y
+Minor Damage,0,YES,69930,2,101010,dancing,Side Collision,Columbus,Fire,15540,NY,IL,2,MALE,500/1000,15540,Mercedes,1,wife,N
+Minor Damage,0,,42720,2,53400,golf,Rear Collision,Columbus,Police,5340,NC,IN,1,MALE,250/500,5340,Honda,4,unmarried,Y
+Total Loss,0,,48080,2,72120,basketball,Side Collision,Northbrook,Fire,12020,SC,IN,1,FEMALE,250/500,12020,Mercedes,1,wife,N
+Minor Damage,0,YES,53970,2,77100,reading,Front Collision,Hillsdale,Police,15420,PA,IL,2,MALE,250/500,7710,Audi,3,wife,N
+Trivial Damage,0,,2700,3,3300,dancing,,Northbend,Police,0,SC,IL,2,FEMALE,100/300,600,Dodge,1,wife,N
+Minor Damage,0,YES,4320,0,5940,golf,,Northbend,,540,WV,IL,1,FEMALE,500/1000,1080,Nissan,1,not-in-family,N
+Major Damage,0,NO,35400,0,63720,video-games,Rear Collision,Northbend,Other,21240,PA,IN,1,MALE,250/500,7080,Accura,2,other-relative,N
+Trivial Damage,0,NO,5760,3,7680,base-jumping,,Riverwood,Police,640,SC,IL,1,FEMALE,100/300,1280,Audi,1,not-in-family,N
+Total Loss,5000000,YES,57680,2,93730,yachting,Side Collision,Riverwood,Police,21630,NY,IL,1,MALE,100/300,14420,Honda,3,own-child,N
+Major Damage,0,YES,52380,2,87300,base-jumping,Rear Collision,Arlington,Police,17460,NC,IL,0,MALE,100/300,17460,Jeep,3,other-relative,N
+Trivial Damage,5000000,,3780,2,5670,camping,,Columbus,Police,630,NY,IL,0,MALE,250/500,1260,Ford,1,wife,N
+Minor Damage,0,YES,46060,0,65800,bungie-jumping,Rear Collision,Springfield,Other,6580,NY,IN,0,MALE,250/500,13160,Accura,3,husband,N
+Major Damage,0,,28560,1,36720,base-jumping,Front Collision,Arlington,Other,4080,NY,OH,2,FEMALE,100/300,4080,Honda,1,wife,Y
+Major Damage,2000000,,38400,1,52800,kayaking,Side Collision,Riverwood,Fire,9600,SC,IL,1,FEMALE,250/500,4800,Mercedes,1,own-child,Y
+Total Loss,0,NO,47280,2,59100,cross-fit,Rear Collision,Arlington,Fire,5910,SC,IN,1,FEMALE,250/500,5910,Nissan,3,unmarried,Y
+Total Loss,6000000,,56320,1,77440,hiking,Rear Collision,Northbrook,Other,7040,NY,OH,1,MALE,500/1000,14080,Suburu,3,unmarried,N
+Total Loss,0,NO,36560,2,45700,golf,Side Collision,Northbend,Fire,4570,NY,IL,2,MALE,250/500,4570,BMW,3,husband,N
+Major Damage,0,NO,58720,2,80740,dancing,Rear Collision,Springfield,Other,14680,SC,OH,2,FEMALE,100/300,7340,Toyota,3,other-relative,Y
+Major Damage,0,,22800,3,31350,base-jumping,Front Collision,Northbrook,Ambulance,5700,SC,IN,0,MALE,100/300,2850,Honda,3,not-in-family,Y
+Total Loss,0,,24500,0,35000,skydiving,Side Collision,Hillsdale,Other,7000,SC,OH,0,FEMALE,100/300,3500,Suburu,1,other-relative,N
+Total Loss,0,,47600,2,68000,board-games,Side Collision,Hillsdale,Police,6800,WV,OH,2,MALE,500/1000,13600,Toyota,3,own-child,N
+Minor Damage,8000000,YES,58500,0,84500,golf,Side Collision,Northbend,Other,13000,SC,IL,2,FEMALE,250/500,13000,BMW,3,unmarried,N
+Minor Damage,0,NO,52850,1,75500,bungie-jumping,Rear Collision,Northbend,Police,15100,WV,IL,2,FEMALE,500/1000,7550,Nissan,1,wife,N
+Total Loss,0,NO,60400,3,90600,bungie-jumping,Side Collision,Riverwood,Other,15100,WV,OH,1,MALE,500/1000,15100,BMW,3,not-in-family,N
+Total Loss,0,YES,48240,1,64320,camping,Side Collision,Northbend,Ambulance,10720,VA,IN,1,FEMALE,500/1000,5360,Accura,3,wife,N
+Minor Damage,0,,22190,0,31700,yachting,Rear Collision,Northbend,Police,3170,NY,IL,1,FEMALE,250/500,6340,Toyota,3,not-in-family,N
+Major Damage,0,YES,49520,1,74280,reading,Side Collision,Springfield,Other,12380,NY,IN,0,MALE,500/1000,12380,Suburu,1,other-relative,Y
+Total Loss,0,YES,60390,2,80520,video-games,Front Collision,Columbus,Fire,6710,NY,IL,0,FEMALE,100/300,13420,Toyota,1,wife,N
+Major Damage,0,YES,44520,3,63600,polo,Rear Collision,Hillsdale,Other,12720,SC,IN,0,MALE,250/500,6360,Dodge,3,husband,N
+Total Loss,0,,26240,2,32800,movies,Front Collision,Riverwood,Police,3280,WV,IL,1,MALE,250/500,3280,BMW,1,husband,N
+Total Loss,0,NO,29460,2,44190,board-games,Rear Collision,Northbend,Police,4910,PA,OH,0,FEMALE,500/1000,9820,Audi,3,other-relative,N
+Major Damage,0,YES,35280,2,50400,sleeping,Rear Collision,Springfield,Other,5040,VA,IL,2,MALE,250/500,10080,Honda,2,not-in-family,Y
+Total Loss,0,YES,61880,1,88400,sleeping,Side Collision,Northbend,Police,8840,NY,IL,1,MALE,500/1000,17680,Nissan,3,not-in-family,N
+Total Loss,0,YES,48400,2,66550,bungie-jumping,Front Collision,Hillsdale,Fire,6050,NY,IL,0,FEMALE,100/300,12100,Volkswagen,3,own-child,N
+Minor Damage,0,YES,47840,0,65780,yachting,Rear Collision,Arlington,Police,11960,NY,IN,0,MALE,100/300,5980,Chevrolet,3,own-child,N
+Major Damage,0,,37680,2,51810,base-jumping,Side Collision,Columbus,Other,4710,NY,IN,0,MALE,250/500,9420,Audi,3,husband,Y
+Major Damage,4000000,NO,40480,0,55660,board-games,Front Collision,Springfield,Other,10120,WV,IN,1,MALE,250/500,5060,Honda,1,own-child,Y
+Major Damage,0,,29760,3,44640,base-jumping,Side Collision,Springfield,Fire,4960,NY,OH,2,MALE,500/1000,9920,Toyota,1,not-in-family,N
+Major Damage,0,,56480,3,77660,reading,Front Collision,Riverwood,Ambulance,14120,NY,IL,1,FEMALE,500/1000,7060,Nissan,3,husband,Y
+Trivial Damage,0,NO,3760,2,5640,base-jumping,,Northbend,,940,SC,IN,2,FEMALE,250/500,940,Nissan,1,unmarried,N
+Trivial Damage,0,,2030,2,3190,reading,,Arlington,,580,VA,IL,2,FEMALE,500/1000,580,Suburu,1,husband,N
+Total Loss,6000000,,46760,0,53440,hiking,Side Collision,Arlington,Fire,6680,NC,OH,0,MALE,100/300,0,Ford,1,wife,N
+Minor Damage,6000000,NO,50750,1,65250,camping,Rear Collision,Hillsdale,Police,7250,WV,IL,0,FEMALE,500/1000,7250,BMW,1,unmarried,N
+Minor Damage,4000000,NO,34440,1,44280,sleeping,Side Collision,Columbus,Fire,4920,SC,OH,2,MALE,250/500,4920,Chevrolet,3,unmarried,N
+Total Loss,0,YES,54670,0,70290,camping,Rear Collision,Springfield,Police,7810,NY,IL,2,MALE,500/1000,7810,Dodge,1,wife,N
+Minor Damage,0,,69680,1,87100,movies,Front Collision,Hillsdale,Other,8710,NY,IN,1,FEMALE,250/500,8710,Saab,1,husband,N
+Total Loss,0,,41220,3,50380,video-games,Front Collision,Columbus,Fire,4580,NY,IN,1,MALE,500/1000,4580,Suburu,3,unmarried,N
+Total Loss,0,YES,45360,2,64800,cross-fit,Side Collision,Arlington,Police,6480,VA,IL,2,FEMALE,100/300,12960,Audi,3,wife,Y
+Minor Damage,0,YES,44800,3,70400,movies,Rear Collision,Columbus,Other,12800,SC,OH,1,FEMALE,100/300,12800,BMW,1,wife,N
+Major Damage,0,,47340,2,57860,skydiving,Rear Collision,Northbend,Police,10520,NY,IL,2,MALE,250/500,0,Suburu,1,own-child,Y
+Minor Damage,0,,4320,3,6240,sleeping,,Northbend,,960,WV,IL,0,MALE,500/1000,960,Ford,1,other-relative,N
+Total Loss,5000000,,38850,3,66600,board-games,Rear Collision,Columbus,Police,11100,VA,IN,2,FEMALE,100/300,16650,Jeep,1,unmarried,Y
+Minor Damage,0,YES,47280,2,70920,hiking,Side Collision,Hillsdale,Police,11820,VA,IN,0,MALE,100/300,11820,Jeep,1,unmarried,N
+Minor Damage,6000000,YES,26320,0,39480,skydiving,Rear Collision,Springfield,Ambulance,6580,WV,OH,2,MALE,250/500,6580,Suburu,1,own-child,N
+Total Loss,6000000,,47430,2,63240,base-jumping,Front Collision,Arlington,Other,5270,VA,IN,2,FEMALE,500/1000,10540,Mercedes,1,husband,N
+Total Loss,0,YES,49200,0,67650,cross-fit,Side Collision,Arlington,Other,6150,SC,IL,1,MALE,100/300,12300,Audi,3,not-in-family,N
+Major Damage,7000000,,44520,3,74200,bungie-jumping,Front Collision,Riverwood,Fire,14840,SC,IL,1,FEMALE,100/300,14840,Accura,1,unmarried,Y
+Minor Damage,0,YES,38940,3,64900,polo,Side Collision,Columbus,Other,12980,VA,OH,1,FEMALE,500/1000,12980,Volkswagen,1,own-child,N
+Major Damage,0,,25130,0,35900,paintball,Rear Collision,Northbend,Ambulance,3590,NC,IL,1,FEMALE,500/1000,7180,Audi,3,other-relative,Y
+Minor Damage,3000000,NO,36540,3,52200,camping,Rear Collision,Riverwood,Fire,10440,VA,IN,1,FEMALE,100/300,5220,Honda,1,unmarried,N
+Minor Damage,0,,58500,2,78000,skydiving,Front Collision,Hillsdale,Police,13000,SC,OH,0,MALE,100/300,6500,Suburu,1,own-child,N
+Minor Damage,0,YES,53760,0,67200,base-jumping,Front Collision,Springfield,Ambulance,6720,NY,IN,0,FEMALE,500/1000,6720,Volkswagen,3,own-child,N
+Total Loss,0,NO,46000,0,63250,golf,Rear Collision,Hillsdale,Fire,5750,WV,OH,0,FEMALE,100/300,11500,Nissan,1,unmarried,N
+Major Damage,0,YES,51570,1,68760,paintball,Side Collision,Columbus,Other,5730,WV,IL,1,FEMALE,250/500,11460,Ford,3,not-in-family,N
+Minor Damage,0,YES,43360,2,65040,movies,Side Collision,Springfield,Police,10840,NY,OH,0,MALE,250/500,10840,Suburu,3,other-relative,N
+Major Damage,0,,48300,3,82800,yachting,Side Collision,Springfield,Ambulance,13800,SC,IL,1,MALE,100/300,20700,Jeep,1,wife,Y
+Total Loss,0,NO,49360,0,61700,basketball,Side Collision,Columbus,Other,6170,SC,OH,1,MALE,500/1000,6170,Saab,1,unmarried,N
+Major Damage,2000000,YES,54670,1,78100,polo,Rear Collision,Columbus,Ambulance,7810,OH,IN,2,FEMALE,250/500,15620,Chevrolet,3,unmarried,Y
+Major Damage,0,YES,46800,1,65520,paintball,Rear Collision,Northbend,Ambulance,9360,SC,IN,2,FEMALE,100/300,9360,Toyota,3,other-relative,Y
+Trivial Damage,0,YES,3600,2,4500,polo,,Arlington,,450,VA,IN,0,MALE,100/300,450,Saab,1,own-child,N
+Major Damage,0,NO,36600,2,42700,reading,Side Collision,Northbend,Other,6100,WV,OH,0,FEMALE,100/300,0,Mercedes,3,own-child,Y
+Minor Damage,0,NO,4340,2,5580,polo,,Hillsdale,Police,620,SC,OH,2,FEMALE,500/1000,620,Volkswagen,1,own-child,Y
+Minor Damage,0,,2520,0,3600,chess,,Arlington,,720,NC,IN,0,FEMALE,100/300,360,BMW,1,wife,Y
+Trivial Damage,7000000,,2240,0,2800,dancing,,Northbrook,,280,SC,IL,2,FEMALE,250/500,280,Volkswagen,1,own-child,N
+Minor Damage,0,NO,42000,0,54000,hiking,Front Collision,Northbend,Ambulance,6000,VA,OH,1,FEMALE,500/1000,6000,Toyota,1,own-child,N
+Minor Damage,0,,35600,2,48950,yachting,Side Collision,Northbend,Police,8900,NC,IN,0,FEMALE,250/500,4450,Accura,1,wife,Y
+Major Damage,0,YES,46680,1,77800,hiking,Rear Collision,Northbend,Other,15560,WV,IL,0,MALE,500/1000,15560,Dodge,4,other-relative,N
+Major Damage,0,YES,35040,1,52560,exercise,Front Collision,Columbus,Other,5840,NC,IN,2,MALE,100/300,11680,Saab,3,other-relative,N
+Total Loss,0,,32080,2,44110,dancing,Side Collision,Riverwood,Police,8020,VA,OH,1,FEMALE,500/1000,4010,Honda,2,own-child,N
+Total Loss,0,NO,54080,3,74360,video-games,Front Collision,Hillsdale,Other,6760,SC,IL,1,FEMALE,500/1000,13520,Suburu,1,husband,N
+Minor Damage,6000000,YES,4760,2,6120,base-jumping,,Arlington,,680,WV,OH,1,FEMALE,250/500,680,Honda,1,wife,Y
+Minor Damage,6000000,,46710,0,62280,chess,Side Collision,Northbend,Police,10380,SC,IL,0,MALE,500/1000,5190,Suburu,4,unmarried,N
+Total Loss,6000000,,17010,0,26730,reading,Front Collision,Springfield,Other,4860,NY,IL,1,FEMALE,250/500,4860,Volkswagen,3,other-relative,N
+Major Damage,0,,52960,0,66200,exercise,Rear Collision,Arlington,Ambulance,6620,WV,OH,1,FEMALE,500/1000,6620,Dodge,1,own-child,N
+Total Loss,6000000,,31850,2,45500,polo,Side Collision,Northbrook,Fire,4550,VA,OH,1,MALE,100/300,9100,Toyota,1,not-in-family,N
+Minor Damage,0,,44200,0,53040,sleeping,Side Collision,Springfield,Ambulance,4420,NY,IN,2,MALE,100/300,4420,Audi,3,own-child,N
+Major Damage,0,,35560,2,50800,reading,Front Collision,Columbus,Other,5080,VA,OH,1,MALE,100/300,10160,Mercedes,3,other-relative,Y
+Total Loss,6000000,,35360,3,44200,sleeping,Side Collision,Northbend,Police,4420,SC,IN,1,FEMALE,250/500,4420,Audi,3,own-child,N
+Minor Damage,0,YES,45760,3,62920,base-jumping,Front Collision,Springfield,Police,5720,SC,IL,1,FEMALE,500/1000,11440,Chevrolet,1,other-relative,N
+Minor Damage,0,,38850,2,49950,golf,Rear Collision,Springfield,Other,5550,NY,OH,0,MALE,250/500,5550,Nissan,3,not-in-family,Y
+Minor Damage,0,YES,43890,1,56430,chess,Rear Collision,Arlington,Ambulance,6270,NC,IL,0,MALE,250/500,6270,BMW,1,unmarried,Y
+Minor Damage,0,NO,63770,2,100210,board-games,Front Collision,Riverwood,Police,18220,NY,IL,2,FEMALE,250/500,18220,Audi,1,own-child,N
+Minor Damage,0,NO,38220,0,49140,base-jumping,Front Collision,Northbend,Fire,5460,NY,OH,1,MALE,500/1000,5460,Ford,3,wife,N
+Major Damage,0,NO,44560,1,66840,paintball,Side Collision,Northbrook,Ambulance,5570,WV,OH,0,FEMALE,250/500,16710,Mercedes,1,not-in-family,N
+Total Loss,0,,48580,2,62460,camping,Front Collision,Hillsdale,Other,6940,NY,IN,1,MALE,500/1000,6940,Honda,1,wife,N
+Total Loss,5000000,YES,39970,1,62810,base-jumping,Side Collision,Columbus,Other,11420,NY,OH,0,MALE,100/300,11420,Nissan,3,wife,N
+Major Damage,2000000,YES,40620,2,54160,sleeping,Front Collision,Northbrook,Ambulance,6770,WV,OH,1,FEMALE,500/1000,6770,Suburu,1,own-child,N
+Major Damage,0,YES,33880,2,48400,golf,Rear Collision,Arlington,Ambulance,4840,WV,IL,0,FEMALE,100/300,9680,Saab,1,unmarried,N
+Total Loss,3000000,,40040,0,51480,golf,Side Collision,Arlington,Fire,5720,NY,IN,0,MALE,250/500,5720,Toyota,3,other-relative,N
+Total Loss,0,NO,36190,1,51700,board-games,Rear Collision,Columbus,Fire,10340,NY,OH,2,FEMALE,100/300,5170,Saab,3,husband,N
+Total Loss,0,,49140,2,65520,video-games,Front Collision,Northbend,Other,5460,WV,OH,1,MALE,250/500,10920,Volkswagen,3,own-child,N
+Major Damage,7000000,NO,33390,2,47700,reading,Rear Collision,Arlington,Other,9540,OH,IN,2,MALE,500/1000,4770,Accura,4,own-child,Y
+Minor Damage,0,YES,4060,0,5220,video-games,,Northbend,,580,SC,OH,2,FEMALE,250/500,580,Accura,1,not-in-family,N
+Major Damage,6000000,NO,54990,0,73320,exercise,Side Collision,Riverwood,Other,12220,NY,IN,1,MALE,100/300,6110,Ford,1,unmarried,N
+Minor Damage,0,YES,52430,2,74900,dancing,Front Collision,Hillsdale,Fire,7490,VA,IN,0,MALE,100/300,14980,Jeep,1,wife,N
+Trivial Damage,0,,2320,1,3190,dancing,,Columbus,Police,290,WV,OH,0,FEMALE,250/500,580,Saab,1,unmarried,N
+Minor Damage,6000000,NO,57690,0,76920,exercise,Rear Collision,Columbus,Ambulance,6410,NY,IN,1,MALE,100/300,12820,Chevrolet,1,own-child,N
+Total Loss,0,YES,56720,3,77990,video-games,Front Collision,Springfield,Police,14180,WV,OH,1,FEMALE,250/500,7090,Jeep,2,not-in-family,N
+Total Loss,0,YES,41310,0,59670,base-jumping,Front Collision,Columbus,Fire,9180,NY,IL,1,MALE,500/1000,9180,Ford,1,own-child,N
+Major Damage,0,YES,32640,0,44880,skydiving,Rear Collision,Columbus,Ambulance,4080,NY,IN,2,FEMALE,100/300,8160,Mercedes,3,husband,Y
+Minor Damage,0,,60240,2,82830,skydiving,Side Collision,Northbend,Ambulance,15060,NC,IN,0,MALE,100/300,7530,Audi,1,other-relative,N
+Minor Damage,0,NO,61440,3,84480,cross-fit,Front Collision,Riverwood,Other,15360,SC,OH,1,FEMALE,500/1000,7680,Chevrolet,1,unmarried,Y
+Total Loss,4000000,,55860,3,79800,skydiving,Side Collision,Hillsdale,Fire,7980,WV,IN,2,FEMALE,100/300,15960,Honda,3,wife,N
+Minor Damage,0,,33740,3,53020,exercise,Rear Collision,Arlington,Police,9640,WV,OH,0,MALE,500/1000,9640,Toyota,3,husband,N
+Total Loss,0,,17600,0,24200,sleeping,Side Collision,Hillsdale,Police,4400,VA,IN,0,FEMALE,500/1000,2200,Suburu,3,wife,N
+Minor Damage,0,,27510,3,43230,camping,Rear Collision,Riverwood,Fire,7860,OH,OH,1,MALE,250/500,7860,Chevrolet,1,unmarried,N
+Trivial Damage,0,NO,2320,3,3190,cross-fit,,Springfield,,580,NC,OH,2,FEMALE,250/500,290,Ford,1,unmarried,N
+Minor Damage,0,,3900,3,5850,polo,,Northbrook,,650,WV,IN,0,FEMALE,100/300,1300,BMW,1,not-in-family,N
+Trivial Damage,0,YES,4960,0,6820,video-games,,Arlington,Police,1240,SC,OH,2,FEMALE,250/500,620,BMW,1,not-in-family,N
+Minor Damage,0,NO,46320,2,69480,camping,Front Collision,Riverwood,Fire,11580,NY,OH,2,FEMALE,250/500,11580,Chevrolet,3,not-in-family,N
+Major Damage,0,,70920,2,94560,movies,Front Collision,Northbend,Fire,15760,PA,IL,1,MALE,100/300,7880,Jeep,3,own-child,N
+Minor Damage,0,YES,6240,2,7800,paintball,,Riverwood,,780,NC,OH,1,MALE,500/1000,780,Dodge,1,unmarried,N
+Total Loss,4000000,NO,44560,3,61270,basketball,Front Collision,Northbrook,Other,11140,WV,OH,1,FEMALE,500/1000,5570,Suburu,1,unmarried,N
+Total Loss,0,,53580,2,71440,bungie-jumping,Rear Collision,Riverwood,Police,8930,NY,OH,0,FEMALE,500/1000,8930,Mercedes,1,wife,N
+Total Loss,0,YES,38920,2,55600,exercise,Rear Collision,Hillsdale,Ambulance,5560,NY,OH,1,FEMALE,250/500,11120,Jeep,1,unmarried,N
+Trivial Damage,0,NO,3500,3,5000,board-games,,Riverwood,Police,500,NC,IN,1,MALE,500/1000,1000,Jeep,1,unmarried,N
+Minor Damage,5000000,NO,66330,0,95810,paintball,Side Collision,Springfield,Other,14740,NY,IL,2,FEMALE,250/500,14740,BMW,1,own-child,N
+Major Damage,0,NO,48510,2,69300,chess,Rear Collision,Northbend,Ambulance,13860,SC,IN,2,FEMALE,100/300,6930,Volkswagen,1,husband,N
+Total Loss,0,,47320,0,81120,video-games,Front Collision,Northbend,Ambulance,20280,SC,IN,1,MALE,250/500,13520,Toyota,1,other-relative,N
+Major Damage,0,,63180,0,91260,hiking,Front Collision,Columbus,Other,14040,WV,IN,0,MALE,500/1000,14040,Toyota,1,husband,N
+Minor Damage,0,,42420,0,60600,kayaking,Side Collision,Northbend,Fire,12120,SC,IN,0,FEMALE,100/300,6060,Ford,1,wife,N
+Major Damage,0,,45360,3,64800,base-jumping,Front Collision,Arlington,Ambulance,12960,NY,IN,0,MALE,500/1000,6480,Suburu,3,husband,Y
+Major Damage,0,,48640,0,66880,basketball,Side Collision,Northbrook,Police,12160,WV,OH,0,FEMALE,500/1000,6080,Chevrolet,4,other-relative,Y
+Total Loss,0,NO,46560,2,58200,cross-fit,Front Collision,Arlington,Ambulance,5820,WV,IL,0,MALE,500/1000,5820,BMW,1,not-in-family,N
+Minor Damage,4000000,,47110,0,60570,polo,Side Collision,Hillsdale,Police,6730,NC,IN,1,FEMALE,100/300,6730,Nissan,1,own-child,N
+Major Damage,0,,52260,0,69680,camping,Rear Collision,Springfield,Ambulance,8710,NC,IL,0,FEMALE,100/300,8710,Mercedes,3,other-relative,Y
+Total Loss,0,YES,38990,3,55700,bungie-jumping,Front Collision,Columbus,Fire,11140,NY,IN,2,MALE,500/1000,5570,Nissan,1,own-child,N
+Total Loss,10000000,YES,51030,2,62370,sleeping,Front Collision,Arlington,Ambulance,5670,OH,IN,1,FEMALE,250/500,5670,Dodge,4,other-relative,N
+Total Loss,0,,44460,0,54340,yachting,Side Collision,Columbus,Other,0,VA,OH,0,FEMALE,500/1000,9880,Saab,3,not-in-family,N
+Major Damage,0,YES,42910,0,55170,base-jumping,Front Collision,Northbend,Police,6130,NC,OH,1,FEMALE,100/300,6130,Audi,1,other-relative,Y
+Minor Damage,0,,40950,3,58500,exercise,Front Collision,Columbus,Other,5850,NY,IL,2,MALE,100/300,11700,Dodge,1,wife,N
+Major Damage,0,,46620,3,59940,skydiving,Rear Collision,Riverwood,Fire,6660,NC,OH,0,MALE,100/300,6660,Honda,1,own-child,N
+Total Loss,0,NO,58720,0,73400,reading,Side Collision,Northbend,Police,7340,PA,OH,1,MALE,250/500,7340,Dodge,1,wife,N
+Major Damage,0,,32550,2,41850,bungie-jumping,Side Collision,Riverwood,Fire,4650,PA,IL,1,MALE,100/300,4650,Suburu,1,other-relative,N
+Trivial Damage,6000000,,4480,2,6400,chess,,Hillsdale,Police,1280,NC,OH,2,FEMALE,500/1000,640,Mercedes,1,not-in-family,Y
+Trivial Damage,0,NO,2320,1,3190,sleeping,,Northbrook,Police,290,WV,IL,1,FEMALE,500/1000,580,Audi,1,own-child,N
+Trivial Damage,0,YES,4720,1,5900,polo,,Hillsdale,,590,VA,IN,2,MALE,250/500,590,Nissan,1,unmarried,N
+Total Loss,0,NO,44590,2,57330,yachting,Rear Collision,Columbus,Fire,6370,NY,IN,0,MALE,500/1000,6370,Dodge,1,not-in-family,N
+Total Loss,0,NO,54640,3,81960,board-games,Front Collision,Hillsdale,Other,13660,WV,OH,0,MALE,100/300,13660,Dodge,3,own-child,N
+Major Damage,0,YES,44800,0,70400,exercise,Side Collision,Hillsdale,Fire,19200,SC,IN,0,FEMALE,250/500,6400,Suburu,1,wife,Y
+Minor Damage,0,NO,2610,1,3770,paintball,,Columbus,,580,VA,IN,2,FEMALE,500/1000,580,Jeep,1,not-in-family,N
+Minor Damage,6000000,NO,5180,0,7400,reading,,Arlington,,1480,NC,IN,0,FEMALE,500/1000,740,Dodge,1,other-relative,N
+Total Loss,0,YES,42630,1,54810,chess,Rear Collision,Northbend,Police,6090,SC,IN,1,FEMALE,500/1000,6090,Chevrolet,1,unmarried,Y
+Total Loss,6000000,YES,34580,3,49400,dancing,Rear Collision,Springfield,Fire,9880,NY,IN,2,FEMALE,250/500,4940,Jeep,1,own-child,N
+Minor Damage,0,YES,50000,2,68750,exercise,Front Collision,Riverwood,Fire,6250,NC,IL,2,MALE,250/500,12500,Chevrolet,1,wife,N
+Total Loss,0,NO,43050,0,61500,yachting,Front Collision,Arlington,Ambulance,6150,SC,OH,1,FEMALE,100/300,12300,Dodge,1,other-relative,N
+Major Damage,0,,55920,3,76890,reading,Rear Collision,Northbend,Ambulance,13980,WV,IL,0,FEMALE,100/300,6990,BMW,4,husband,N
+Minor Damage,5000000,YES,37380,1,56070,base-jumping,Rear Collision,Northbrook,Ambulance,12460,NY,OH,0,FEMALE,100/300,6230,Toyota,1,husband,N
+Total Loss,0,NO,42000,0,56000,reading,Side Collision,Northbrook,Fire,0,SC,IN,2,FEMALE,100/300,14000,Chevrolet,1,husband,N
+Trivial Damage,0,YES,3120,0,4290,board-games,,Hillsdale,,390,NY,IL,1,FEMALE,500/1000,780,Audi,1,unmarried,N
+Total Loss,0,,47250,1,60750,reading,Rear Collision,Arlington,Other,6750,NY,IL,2,FEMALE,250/500,6750,Suburu,3,husband,N
+Minor Damage,0,,39870,3,48730,board-games,Side Collision,Northbend,Other,4430,NY,IL,2,FEMALE,250/500,4430,Chevrolet,1,not-in-family,N
+Minor Damage,0,YES,60550,0,95150,video-games,Front Collision,Springfield,Police,17300,WV,IL,2,MALE,500/1000,17300,Ford,3,not-in-family,N
+Minor Damage,0,,6120,1,7480,yachting,,Columbus,Police,680,NY,IN,0,MALE,100/300,680,Dodge,1,husband,N
+Major Damage,0,,59850,1,79800,movies,Side Collision,Riverwood,Ambulance,6650,NC,IL,2,MALE,100/300,13300,Volkswagen,1,own-child,Y
+Total Loss,9000000,YES,77670,2,103560,board-games,Side Collision,Hillsdale,Other,17260,NC,OH,0,FEMALE,500/1000,8630,Jeep,1,unmarried,N
+Minor Damage,0,YES,55650,3,79500,yachting,Side Collision,Hillsdale,Ambulance,7950,NY,IN,2,FEMALE,500/1000,15900,Accura,1,other-relative,N
+Minor Damage,0,NO,55440,2,76230,base-jumping,Rear Collision,Riverwood,Other,13860,SC,OH,2,FEMALE,250/500,6930,Volkswagen,1,other-relative,Y
+Minor Damage,0,YES,39680,2,59520,board-games,Side Collision,Northbend,Ambulance,9920,WV,IL,0,MALE,100/300,9920,Honda,1,own-child,N
+Major Damage,0,NO,35820,1,47760,hiking,Front Collision,Arlington,Police,5970,SC,IL,2,FEMALE,100/300,5970,Suburu,3,own-child,Y
+Total Loss,0,NO,61520,0,84590,golf,Side Collision,Springfield,Police,7690,NY,IL,2,MALE,100/300,15380,Saab,3,wife,N
+Total Loss,0,YES,47950,2,61650,skydiving,Front Collision,Columbus,Other,6850,SC,OH,2,MALE,500/1000,6850,Nissan,3,other-relative,N
+Major Damage,6000000,,65120,1,81400,dancing,Rear Collision,Springfield,Police,8140,VA,IL,2,FEMALE,500/1000,8140,BMW,1,unmarried,N
+Major Damage,0,NO,42480,1,58410,camping,Side Collision,Northbend,Fire,5310,SC,IN,0,FEMALE,100/300,10620,Chevrolet,3,wife,N
+Major Damage,0,,31590,0,38610,exercise,Side Collision,Springfield,Ambulance,3510,VA,IL,0,FEMALE,250/500,3510,Volkswagen,3,other-relative,N
+Minor Damage,5000000,,38400,2,57600,yachting,Front Collision,Northbrook,Fire,9600,WV,OH,2,FEMALE,100/300,9600,Volkswagen,3,not-in-family,N
+Minor Damage,0,NO,35460,2,53190,kayaking,Side Collision,Hillsdale,Fire,11820,NC,IL,2,FEMALE,100/300,5910,Volkswagen,3,not-in-family,N
+Major Damage,0,,40810,3,58300,skydiving,Front Collision,Riverwood,Other,11660,NY,OH,2,FEMALE,100/300,5830,Nissan,1,husband,Y
+Minor Damage,6000000,YES,57440,2,64620,video-games,Front Collision,Springfield,Ambulance,0,WV,IL,1,MALE,500/1000,7180,Dodge,3,unmarried,N
+Total Loss,0,NO,60320,0,90480,hiking,Side Collision,Riverwood,Ambulance,15080,WV,IL,2,MALE,250/500,15080,BMW,3,not-in-family,N
+Trivial Damage,0,NO,4720,0,7080,kayaking,,Columbus,,1180,SC,IL,1,FEMALE,100/300,1180,Nissan,1,wife,N
+Minor Damage,7000000,,4720,2,6490,chess,,Springfield,Police,1180,PA,IL,2,MALE,500/1000,590,Toyota,1,other-relative,Y
+Total Loss,0,NO,44720,1,55900,golf,Side Collision,Hillsdale,Police,5590,NC,OH,1,FEMALE,500/1000,5590,Nissan,3,other-relative,N
+Major Damage,0,NO,51040,3,63800,polo,Rear Collision,Columbus,Other,6380,SC,IL,0,MALE,250/500,6380,Saab,1,husband,Y
+Total Loss,0,,43620,1,58160,cross-fit,Side Collision,Northbend,Police,7270,VA,OH,0,MALE,100/300,7270,Saab,1,other-relative,Y
+Minor Damage,0,NO,4410,2,6300,chess,,Riverwood,Police,1260,NC,IL,1,MALE,500/1000,630,Mercedes,1,unmarried,Y
+Major Damage,0,NO,66570,1,104610,yachting,Front Collision,Arlington,Fire,19020,WV,IN,2,MALE,250/500,19020,Mercedes,1,other-relative,Y
+Major Damage,6000000,NO,50800,2,69850,sleeping,Rear Collision,Springfield,Fire,6350,SC,IL,0,MALE,100/300,12700,Ford,3,wife,N
+Minor Damage,0,NO,44030,0,62900,polo,Rear Collision,Northbrook,Fire,6290,PA,OH,0,FEMALE,250/500,12580,Accura,1,other-relative,N
+Major Damage,0,NO,46410,3,59670,golf,Front Collision,Riverwood,Other,6630,WV,IN,0,MALE,500/1000,6630,Volkswagen,3,not-in-family,Y
+Minor Damage,0,YES,57050,0,81500,camping,Rear Collision,Springfield,Other,8150,NY,IL,2,MALE,100/300,16300,BMW,2,unmarried,N
+Minor Damage,0,NO,30000,0,50000,video-games,Rear Collision,Springfield,Ambulance,5000,NC,OH,2,MALE,100/300,15000,Jeep,1,own-child,N
+Total Loss,0,,30730,1,48290,exercise,Front Collision,Springfield,Other,8780,NY,IN,2,MALE,100/300,8780,Nissan,1,husband,N
+Total Loss,0,NO,48330,0,59070,golf,Rear Collision,Riverwood,Fire,5370,VA,OH,0,MALE,500/1000,5370,Chevrolet,1,husband,N
+Minor Damage,0,,44310,0,63300,yachting,Rear Collision,Springfield,Police,6330,NY,IN,0,FEMALE,500/1000,12660,Dodge,3,other-relative,N
+Total Loss,0,NO,41860,3,65780,exercise,Side Collision,Northbend,Other,11960,SC,IL,0,MALE,100/300,11960,Mercedes,1,own-child,N
+Total Loss,0,NO,52200,2,75400,cross-fit,Front Collision,Columbus,Ambulance,11600,NY,OH,0,MALE,250/500,11600,Dodge,3,not-in-family,Y
+Minor Damage,0,YES,1750,1,2250,movies,,Arlington,,250,WV,OH,1,MALE,500/1000,250,Toyota,1,unmarried,N
+Minor Damage,6000000,YES,40590,3,54120,reading,Front Collision,Northbend,Ambulance,9020,VA,IL,1,FEMALE,100/300,4510,Jeep,3,unmarried,N
+Major Damage,0,NO,46320,2,69480,camping,Side Collision,Northbrook,Other,11580,NY,OH,0,MALE,250/500,11580,Saab,3,wife,N
+Minor Damage,0,,46350,2,66950,reading,Rear Collision,Northbend,Police,10300,NY,IN,1,FEMALE,100/300,10300,Chevrolet,1,not-in-family,N
+Major Damage,0,NO,44870,3,64100,board-games,Rear Collision,Northbrook,Other,6410,OH,OH,2,FEMALE,250/500,12820,Dodge,3,own-child,Y
+Minor Damage,0,,53520,3,80280,camping,Rear Collision,Springfield,Other,13380,SC,IN,0,MALE,100/300,13380,Chevrolet,1,unmarried,N
+Trivial Damage,6000000,,4160,2,4680,hiking,,Northbend,Police,0,NY,IL,1,MALE,500/1000,520,Accura,1,husband,N
+Minor Damage,0,,26480,1,39720,base-jumping,Rear Collision,Springfield,Ambulance,6620,NY,OH,1,MALE,500/1000,6620,Accura,4,wife,N
+Major Damage,0,,52020,0,63580,exercise,Front Collision,Arlington,Police,5780,NY,IL,0,MALE,250/500,5780,Mercedes,1,not-in-family,Y
+Minor Damage,0,YES,53360,1,73370,camping,Side Collision,Northbend,Other,6670,NC,IN,1,FEMALE,100/300,13340,Saab,1,own-child,N
+Minor Damage,0,,55230,3,86790,paintball,Side Collision,Northbrook,Police,23670,SC,OH,2,FEMALE,500/1000,7890,Honda,1,other-relative,N
+Major Damage,0,NO,34860,2,49800,sleeping,Side Collision,Columbus,Police,4980,WV,IN,0,MALE,250/500,9960,Mercedes,1,husband,N
+Major Damage,0,YES,56320,1,77440,exercise,Side Collision,Hillsdale,Other,14080,WV,IL,1,FEMALE,100/300,7040,Nissan,1,husband,N
+Total Loss,8000000,,34320,0,42900,board-games,Front Collision,Springfield,Other,0,SC,IL,1,FEMALE,500/1000,8580,Accura,1,own-child,N
+Major Damage,6000000,YES,35880,0,53820,skydiving,Rear Collision,Hillsdale,Fire,5980,VA,OH,1,FEMALE,100/300,11960,Ford,2,wife,Y
+Minor Damage,6000000,NO,38220,1,57330,reading,Rear Collision,Hillsdale,Police,6370,WV,IL,2,MALE,100/300,12740,Jeep,1,other-relative,N
+Minor Damage,0,NO,41510,1,53370,paintball,Rear Collision,Riverwood,Police,5930,NY,IL,2,FEMALE,500/1000,5930,Nissan,3,other-relative,N
+Minor Damage,0,NO,38720,2,62920,yachting,Front Collision,Northbrook,Police,14520,NY,IL,2,MALE,100/300,9680,Accura,1,husband,N
+Total Loss,0,,43120,1,61600,board-games,Front Collision,Arlington,Fire,12320,NY,IN,0,FEMALE,500/1000,6160,Honda,3,unmarried,N
+Total Loss,0,YES,55620,0,74160,golf,Rear Collision,Northbend,Police,12360,NY,IL,2,MALE,500/1000,6180,Mercedes,3,unmarried,N
+Total Loss,0,NO,62300,0,80100,reading,Rear Collision,Arlington,Police,8900,WV,OH,2,MALE,250/500,8900,Audi,1,husband,N
+Trivial Damage,0,,4920,3,6560,paintball,,Hillsdale,Police,820,NY,OH,2,FEMALE,500/1000,820,Volkswagen,1,husband,N
+Total Loss,0,,41160,1,58800,hiking,Rear Collision,Northbend,Ambulance,5880,WV,IL,2,MALE,250/500,11760,Nissan,1,not-in-family,N
+Minor Damage,0,,35820,2,53730,chess,Side Collision,Northbrook,Ambulance,5970,PA,IL,0,FEMALE,250/500,11940,Dodge,3,not-in-family,Y
+Total Loss,0,NO,45450,0,60600,cross-fit,Rear Collision,Arlington,Ambulance,10100,NY,IL,0,FEMALE,100/300,5050,Honda,1,husband,N
+Total Loss,0,,26000,3,35750,movies,Side Collision,Northbrook,Other,3250,NY,OH,0,FEMALE,250/500,6500,Mercedes,1,other-relative,N
+Total Loss,0,,32130,2,42840,exercise,Front Collision,Arlington,Ambulance,7140,WV,IN,1,FEMALE,100/300,3570,Chevrolet,1,wife,N
+Major Damage,0,,58640,0,87960,hiking,Front Collision,Springfield,Fire,14660,SC,IL,1,MALE,250/500,14660,Jeep,3,own-child,Y
+Minor Damage,0,NO,38240,0,47800,camping,Rear Collision,Hillsdale,Ambulance,4780,SC,IL,1,MALE,250/500,4780,Jeep,3,other-relative,N
+Trivial Damage,7000000,NO,2560,1,3840,exercise,,Northbrook,Police,640,NY,IL,0,FEMALE,500/1000,640,Chevrolet,1,unmarried,N
+Total Loss,0,NO,56000,2,77000,hiking,Front Collision,Riverwood,Fire,7000,NY,IN,0,MALE,100/300,14000,Accura,1,own-child,N
+Total Loss,0,YES,56070,3,88110,skydiving,Rear Collision,Springfield,Ambulance,16020,WV,IL,1,FEMALE,250/500,16020,Audi,1,not-in-family,N
+Minor Damage,0,NO,39060,2,47740,hiking,Rear Collision,Northbend,Fire,4340,SC,IN,0,MALE,100/300,4340,Honda,4,other-relative,N
+Total Loss,0,YES,42880,1,58960,video-games,Rear Collision,Northbend,Fire,10720,SC,OH,2,FEMALE,100/300,5360,Ford,3,own-child,N
+Minor Damage,0,NO,1440,2,2160,skydiving,,Northbrook,Police,240,NC,OH,1,FEMALE,250/500,480,Toyota,1,own-child,N
+Trivial Damage,0,YES,5300,1,6890,exercise,,Riverwood,Police,1060,SC,IL,1,FEMALE,100/300,530,Jeep,1,own-child,N
+Major Damage,5000000,NO,57360,0,78870,kayaking,Side Collision,Springfield,Ambulance,14340,VA,IL,2,FEMALE,100/300,7170,Suburu,3,husband,N
+Trivial Damage,0,NO,2100,1,2700,basketball,,Columbus,Police,300,SC,IN,1,FEMALE,100/300,300,Ford,1,other-relative,N
+Total Loss,0,,63300,1,75960,kayaking,Front Collision,Riverwood,Ambulance,6330,WV,IL,0,FEMALE,100/300,6330,Jeep,1,not-in-family,N
+Major Damage,0,YES,54960,3,75570,video-games,Front Collision,Northbrook,Police,13740,WV,IN,1,FEMALE,250/500,6870,BMW,1,other-relative,Y
+Minor Damage,5000000,,60160,3,90240,exercise,Front Collision,Columbus,Police,15040,SC,IL,2,FEMALE,500/1000,15040,Chevrolet,1,unmarried,N
+Major Damage,0,,58880,0,80960,dancing,Front Collision,Springfield,Ambulance,7360,SC,IN,0,FEMALE,100/300,14720,Accura,1,not-in-family,N
+Total Loss,0,NO,59310,3,79080,skydiving,Front Collision,Riverwood,Other,13180,VA,IL,1,MALE,100/300,6590,Mercedes,3,own-child,N
+Minor Damage,0,NO,4960,3,6820,paintball,,Columbus,,620,SC,IN,0,MALE,500/1000,1240,Mercedes,1,not-in-family,N
+Total Loss,0,NO,45520,2,62590,sleeping,Rear Collision,Northbend,Fire,11380,WV,OH,1,FEMALE,100/300,5690,Nissan,3,wife,N
+Major Damage,0,NO,39300,0,52400,dancing,Side Collision,Arlington,Other,6550,NY,OH,1,FEMALE,250/500,6550,Accura,1,wife,Y
+Major Damage,0,,46240,3,63580,basketball,Front Collision,Arlington,Ambulance,11560,WV,IL,1,MALE,250/500,5780,Volkswagen,3,husband,N
+Minor Damage,0,YES,49120,1,61400,reading,Side Collision,Riverwood,Police,6140,NY,IL,2,FEMALE,250/500,6140,Nissan,3,other-relative,N
+Minor Damage,0,YES,3290,3,4700,paintball,,Northbend,,470,VA,IL,1,MALE,250/500,940,Dodge,1,own-child,Y
+Total Loss,0,NO,47180,2,74140,hiking,Front Collision,Riverwood,Fire,13480,SC,IN,0,FEMALE,250/500,13480,BMW,1,other-relative,N
+Major Damage,4000000,,62370,2,83160,reading,Front Collision,Hillsdale,Other,13860,VA,OH,2,FEMALE,500/1000,6930,Volkswagen,1,wife,N
+Trivial Damage,7000000,,8300,2,10790,paintball,,Arlington,Police,830,NC,OH,0,FEMALE,250/500,1660,Mercedes,1,other-relative,N
+Major Damage,0,YES,30590,3,48070,paintball,Rear Collision,Arlington,Police,8740,NC,IL,1,FEMALE,100/300,8740,Saab,3,husband,N
+Minor Damage,0,YES,34020,0,51030,golf,Rear Collision,Northbrook,Ambulance,11340,SC,OH,0,FEMALE,100/300,5670,Suburu,3,not-in-family,N
+Minor Damage,0,YES,37870,1,43280,yachting,Front Collision,Arlington,Fire,5410,VA,IN,0,MALE,100/300,0,Honda,1,husband,Y
+Major Damage,0,,53480,3,76400,paintball,Front Collision,Hillsdale,Fire,7640,SC,IN,1,FEMALE,250/500,15280,Suburu,1,own-child,N
+Total Loss,0,,48020,2,75460,board-games,Side Collision,Hillsdale,Ambulance,13720,VA,IN,0,MALE,100/300,13720,Audi,1,wife,N
+Major Damage,0,YES,48300,1,69000,polo,Side Collision,Northbrook,Other,6900,OH,OH,2,MALE,100/300,13800,Ford,3,unmarried,Y
+Minor Damage,0,,6480,2,8640,golf,,Springfield,Police,720,VA,IN,1,MALE,250/500,1440,Accura,1,other-relative,N
+Minor Damage,0,,42770,1,67210,dancing,Rear Collision,Arlington,Ambulance,12220,SC,OH,2,MALE,250/500,12220,BMW,3,own-child,N
+Total Loss,0,,34000,3,42500,basketball,Side Collision,Arlington,Ambulance,4250,NC,IN,0,MALE,500/1000,4250,Volkswagen,3,unmarried,N
+Minor Damage,0,YES,64800,1,86400,basketball,Rear Collision,Arlington,Fire,7200,SC,OH,0,MALE,100/300,14400,Accura,1,wife,N
+Minor Damage,0,YES,2940,2,4620,chess,,Hillsdale,Police,840,SC,IL,2,MALE,500/1000,840,Dodge,1,not-in-family,Y
+Trivial Damage,0,YES,5040,2,6930,camping,,Springfield,Police,1260,NC,IL,2,FEMALE,100/300,630,Honda,1,unmarried,N
+Minor Damage,0,YES,25020,2,41700,hiking,Side Collision,Northbend,Other,8340,SC,IL,1,FEMALE,100/300,8340,Saab,3,not-in-family,N
+Major Damage,0,YES,49210,1,77330,board-games,Rear Collision,Northbrook,Other,14060,NY,IL,2,MALE,100/300,14060,Volkswagen,1,wife,Y
+Trivial Damage,0,,3600,3,4950,sleeping,,Arlington,Police,450,WV,IN,2,MALE,500/1000,900,Ford,1,own-child,N
+Minor Damage,6000000,NO,3440,2,5160,polo,,Northbrook,Police,860,NC,IL,0,MALE,500/1000,860,Accura,1,own-child,N
+Total Loss,0,NO,19110,1,24570,yachting,Side Collision,Riverwood,Fire,2730,WV,IL,2,FEMALE,100/300,2730,Saab,3,not-in-family,Y
+Minor Damage,0,,39040,0,53680,movies,Rear Collision,Arlington,Ambulance,9760,WV,IN,1,FEMALE,100/300,4880,Toyota,3,not-in-family,N
+Total Loss,0,YES,35100,1,42900,bungie-jumping,Side Collision,Columbus,Police,3900,WV,IN,1,MALE,500/1000,3900,Chevrolet,3,own-child,N
+Minor Damage,5000000,NO,58870,0,84100,chess,Front Collision,Arlington,Fire,8410,NY,OH,0,MALE,250/500,16820,Ford,1,wife,Y
+Total Loss,0,,47880,3,61560,dancing,Front Collision,Northbrook,Fire,6840,NY,IN,1,FEMALE,100/300,6840,Ford,1,own-child,N
+Minor Damage,0,YES,33180,0,44240,hiking,Rear Collision,Hillsdale,Police,5530,NY,IN,0,FEMALE,500/1000,5530,Dodge,1,not-in-family,N
+Minor Damage,0,,40390,3,57700,hiking,Rear Collision,Columbus,Ambulance,5770,VA,IN,2,FEMALE,500/1000,11540,Jeep,4,own-child,N
+Minor Damage,0,NO,74790,2,108030,exercise,Side Collision,Springfield,Other,16620,WV,OH,2,FEMALE,100/300,16620,Saab,1,not-in-family,N
+Minor Damage,5000000,NO,38010,0,54300,dancing,Rear Collision,Riverwood,Fire,5430,SC,IN,2,FEMALE,100/300,10860,Toyota,1,unmarried,N
+Major Damage,0,,21520,2,32280,movies,Front Collision,Columbus,Ambulance,5380,SC,IN,1,MALE,100/300,5380,Ford,3,wife,Y
+Total Loss,0,YES,59220,1,84600,camping,Rear Collision,Riverwood,Other,8460,WV,IN,1,MALE,250/500,16920,Chevrolet,3,other-relative,N
+Total Loss,6000000,NO,55760,3,69700,camping,Front Collision,Springfield,Other,6970,SC,IL,1,MALE,250/500,6970,BMW,1,own-child,N
+Total Loss,3000000,NO,25480,1,36400,movies,Rear Collision,Springfield,Ambulance,7280,WV,OH,0,MALE,100/300,3640,Volkswagen,3,unmarried,N
+Minor Damage,0,NO,28140,2,37520,paintball,Side Collision,Northbrook,Police,4690,SC,OH,0,FEMALE,250/500,4690,Jeep,3,own-child,N
+Major Damage,0,NO,50330,3,79090,paintball,Side Collision,Northbend,Ambulance,14380,NY,OH,2,FEMALE,500/1000,14380,Dodge,3,wife,N
+Major Damage,0,NO,45180,2,67770,board-games,Rear Collision,Springfield,Other,15060,NY,OH,0,MALE,250/500,7530,Mercedes,1,not-in-family,Y
+Total Loss,3000000,NO,33180,0,47400,chess,Side Collision,Northbend,Other,4740,OH,OH,1,MALE,100/300,9480,Chevrolet,1,wife,Y
+Total Loss,0,YES,49770,2,71100,skydiving,Front Collision,Northbend,Other,14220,SC,IN,0,MALE,100/300,7110,Audi,1,husband,N
+Minor Damage,0,,48580,2,69400,dancing,Front Collision,Springfield,Police,6940,NY,OH,2,MALE,100/300,13880,BMW,1,wife,N
+Major Damage,0,YES,40000,1,55000,board-games,Rear Collision,Northbrook,Other,10000,SC,OH,2,MALE,500/1000,5000,Saab,3,not-in-family,Y
+Total Loss,0,YES,35370,3,51090,polo,Rear Collision,Arlington,Police,7860,WV,IN,1,MALE,250/500,7860,Toyota,2,not-in-family,N
+Major Damage,0,,38520,3,64200,camping,Side Collision,Springfield,Fire,19260,NY,OH,2,MALE,500/1000,6420,Honda,1,unmarried,Y
+Total Loss,0,NO,42840,0,67320,base-jumping,Front Collision,Riverwood,Other,12240,NC,IL,2,MALE,500/1000,12240,Ford,1,own-child,N
+Major Damage,0,YES,55360,0,76120,movies,Side Collision,Arlington,Other,13840,NC,IL,2,MALE,250/500,6920,Audi,4,husband,N
+Minor Damage,0,YES,58860,1,85020,movies,Front Collision,Hillsdale,Ambulance,13080,SC,OH,2,FEMALE,500/1000,13080,Ford,2,other-relative,N
+Minor Damage,6000000,NO,43330,1,68090,polo,Rear Collision,Northbrook,Fire,12380,NY,OH,0,MALE,250/500,12380,Toyota,3,unmarried,N
+Trivial Damage,0,,4690,2,6030,exercise,,Arlington,Police,670,WV,IL,1,FEMALE,100/300,670,Nissan,1,wife,N
+Minor Damage,0,,3570,3,5100,yachting,,Springfield,,510,OH,IL,1,MALE,500/1000,1020,Chevrolet,1,wife,N
+Trivial Damage,0,YES,3570,3,4590,yachting,,Springfield,Police,510,WV,IN,1,MALE,100/300,510,Volkswagen,1,own-child,N
+Major Damage,0,,50680,2,72400,yachting,Front Collision,Columbus,Other,14480,SC,IL,1,FEMALE,250/500,7240,Chevrolet,2,not-in-family,Y
+Major Damage,0,NO,49630,3,70900,skydiving,Front Collision,Northbrook,Fire,7090,NY,IN,2,MALE,250/500,14180,Mercedes,1,not-in-family,N
+Total Loss,0,,52080,3,65100,hiking,Side Collision,Springfield,Other,6510,WV,IL,2,FEMALE,500/1000,6510,Saab,2,husband,N
+Total Loss,0,,49980,1,64260,chess,Side Collision,Hillsdale,Ambulance,14280,PA,OH,2,FEMALE,100/300,0,Ford,3,husband,N
+Major Damage,0,,50890,1,79970,yachting,Rear Collision,Arlington,Ambulance,21810,WV,IL,2,FEMALE,500/1000,7270,Honda,1,not-in-family,Y
+Total Loss,0,NO,44030,0,56610,bungie-jumping,Rear Collision,Northbrook,Police,6290,SC,IN,2,FEMALE,100/300,6290,Chevrolet,1,not-in-family,N
+Major Damage,0,YES,69210,1,84590,polo,Side Collision,Northbrook,Fire,7690,VA,IN,1,FEMALE,500/1000,7690,Toyota,1,wife,Y
+Major Damage,0,NO,44520,1,66780,sleeping,Side Collision,Hillsdale,Fire,14840,SC,OH,2,MALE,250/500,7420,Mercedes,3,wife,N
+Major Damage,0,YES,52000,2,58500,exercise,Rear Collision,Springfield,Police,6500,NC,IN,1,MALE,100/300,0,Ford,1,own-child,N
+Trivial Damage,0,,4000,0,5000,golf,,Columbus,Police,500,WV,IL,2,FEMALE,100/300,500,Dodge,1,other-relative,N
+Trivial Damage,5000000,,3500,1,5000,chess,,Springfield,Police,1000,PA,IL,2,FEMALE,100/300,500,Mercedes,1,unmarried,Y
+Major Damage,6000000,,36300,3,54450,camping,Front Collision,Columbus,Ambulance,12100,NY,IL,1,FEMALE,250/500,6050,Saab,3,other-relative,N
+Major Damage,5000000,NO,48160,3,61920,bungie-jumping,Front Collision,Northbrook,Police,6880,WV,OH,1,FEMALE,250/500,6880,Saab,3,other-relative,N
+Minor Damage,0,,34960,2,43700,cross-fit,Side Collision,Hillsdale,Ambulance,4370,VA,OH,1,MALE,250/500,4370,Nissan,1,other-relative,Y
+Minor Damage,0,,49840,0,64080,bungie-jumping,Front Collision,Riverwood,Other,7120,NC,IN,2,MALE,100/300,7120,Ford,1,wife,N
+Total Loss,0,NO,35000,1,55000,chess,Rear Collision,Hillsdale,Other,10000,SC,IL,2,MALE,250/500,10000,Volkswagen,1,own-child,Y
+Trivial Damage,4000000,NO,3850,3,4400,video-games,,Columbus,Police,550,WV,IN,2,FEMALE,250/500,0,Toyota,1,own-child,N
+Minor Damage,0,,53730,1,71640,movies,Side Collision,Hillsdale,Police,11940,SC,OH,0,MALE,100/300,5970,Toyota,2,other-relative,N
+Minor Damage,0,NO,48020,0,61740,reading,Rear Collision,Arlington,Other,6860,NY,OH,1,MALE,100/300,6860,Accura,1,not-in-family,N
+Total Loss,0,,46000,3,57500,golf,Side Collision,Springfield,Ambulance,5750,SC,OH,0,FEMALE,500/1000,5750,Audi,1,own-child,N
+Minor Damage,4000000,YES,6090,0,8700,reading,,Springfield,Police,1740,NY,IN,0,FEMALE,250/500,870,Accura,1,wife,N
+Total Loss,0,NO,53970,1,77100,polo,Front Collision,Riverwood,Police,7710,VA,OH,2,FEMALE,100/300,15420,Volkswagen,4,wife,N
+Minor Damage,0,NO,46200,0,59400,dancing,Front Collision,Springfield,Police,6600,NY,IL,2,MALE,250/500,6600,Dodge,1,wife,N
+Minor Damage,0,NO,39920,0,54890,kayaking,Rear Collision,Northbrook,Fire,4990,NY,IN,1,MALE,100/300,9980,Toyota,3,husband,N
+Minor Damage,0,,53840,1,74030,kayaking,Front Collision,Columbus,Other,13460,WV,IL,2,MALE,250/500,6730,Chevrolet,3,unmarried,N
+Total Loss,0,,39130,2,61490,chess,Rear Collision,Columbus,Other,11180,NY,IL,1,FEMALE,250/500,11180,BMW,1,not-in-family,N
+Minor Damage,0,NO,59670,2,79560,board-games,Front Collision,Northbrook,Police,13260,SC,IN,0,MALE,250/500,6630,Volkswagen,3,not-in-family,N
+Minor Damage,0,,3920,1,4900,yachting,,Northbend,Police,490,NY,IL,0,MALE,100/300,490,Toyota,1,wife,N
+Total Loss,0,,49490,0,77770,paintball,Side Collision,Springfield,Other,14140,WV,IL,1,MALE,250/500,14140,Nissan,3,other-relative,N
+Major Damage,0,,52290,2,74700,board-games,Side Collision,Columbus,Fire,14940,SC,IN,2,FEMALE,500/1000,7470,Nissan,2,unmarried,Y
+Minor Damage,0,NO,32480,2,40600,sleeping,Front Collision,Arlington,Police,4060,NY,IL,2,MALE,100/300,4060,Volkswagen,2,husband,N
+Total Loss,0,,25150,0,45270,video-games,Rear Collision,Springfield,Ambulance,10060,SC,OH,1,MALE,100/300,10060,Jeep,1,husband,N
+Minor Damage,7000000,NO,34240,3,47080,kayaking,Front Collision,Springfield,Ambulance,8560,NY,IL,0,FEMALE,100/300,4280,Saab,3,own-child,N
+Minor Damage,0,,32560,0,40700,chess,Side Collision,Hillsdale,Police,4070,SC,OH,0,FEMALE,500/1000,4070,Volkswagen,1,husband,Y
+Minor Damage,0,,25200,1,34650,polo,Side Collision,Riverwood,Police,3150,NY,OH,2,FEMALE,100/300,6300,Ford,1,own-child,N
+Trivial Damage,0,,2400,0,3200,camping,,Riverwood,Police,400,WV,OH,2,MALE,500/1000,400,Jeep,1,wife,N
+Major Damage,0,,57440,1,78980,yachting,Rear Collision,Hillsdale,Fire,14360,VA,IL,1,MALE,500/1000,7180,Saab,1,unmarried,Y
+Minor Damage,0,YES,4480,0,6160,reading,,Riverwood,,1120,SC,OH,1,MALE,500/1000,560,Nissan,1,not-in-family,N
+Major Damage,0,YES,62000,1,85250,hiking,Front Collision,Northbrook,Ambulance,7750,NC,IN,1,FEMALE,100/300,15500,Mercedes,1,own-child,N
+Major Damage,5000000,YES,54630,2,72840,camping,Side Collision,Springfield,Fire,6070,SC,IL,1,MALE,100/300,12140,Dodge,4,not-in-family,N
+Trivial Damage,0,,3850,2,6050,base-jumping,,Northbend,Police,1100,WV,IN,0,MALE,100/300,1100,Toyota,1,husband,N
+Major Damage,0,NO,63920,3,87890,hiking,Front Collision,Riverwood,Fire,7990,SC,IN,2,FEMALE,250/500,15980,BMW,1,wife,Y
+Total Loss,0,,44000,2,60500,chess,Side Collision,Northbrook,Other,5500,NY,IL,0,FEMALE,100/300,11000,Ford,2,wife,Y
+Minor Damage,0,,56140,1,88220,kayaking,Front Collision,Columbus,Fire,16040,NY,IN,2,FEMALE,500/1000,16040,Chevrolet,3,other-relative,N
+Total Loss,6000000,NO,39040,2,53680,video-games,Rear Collision,Springfield,Other,4880,SC,OH,1,FEMALE,500/1000,9760,Accura,2,husband,N
+Minor Damage,0,NO,43040,2,53800,golf,Front Collision,Springfield,Fire,5380,VA,OH,0,MALE,500/1000,5380,Accura,1,not-in-family,N
+Major Damage,0,YES,40770,2,54360,dancing,Rear Collision,Columbus,Police,9060,NY,OH,1,FEMALE,100/300,4530,Mercedes,1,husband,Y
+Major Damage,0,YES,39520,3,54340,bungie-jumping,Side Collision,Arlington,Police,4940,WV,IL,0,FEMALE,500/1000,9880,Toyota,1,husband,N
+Trivial Damage,0,,2080,2,2860,chess,,Columbus,,260,SC,OH,0,FEMALE,100/300,520,Chevrolet,1,wife,Y
+Minor Damage,0,YES,4270,1,5490,polo,,Hillsdale,Police,1220,WV,OH,2,MALE,100/300,0,Saab,1,own-child,N
+Trivial Damage,0,NO,5360,2,7370,dancing,,Northbend,Police,1340,WV,IL,0,MALE,500/1000,670,Suburu,1,unmarried,N
+Major Damage,0,,40640,0,50800,chess,Side Collision,Columbus,Ambulance,5080,NC,OH,1,FEMALE,500/1000,5080,Audi,3,husband,Y
+Minor Damage,5000000,,31140,1,41520,video-games,Side Collision,Northbrook,Fire,5190,VA,IL,1,MALE,250/500,5190,Nissan,2,not-in-family,N
+Total Loss,0,,65200,3,89650,movies,Side Collision,Riverwood,Police,16300,NY,OH,2,FEMALE,500/1000,8150,Dodge,1,husband,N
+Total Loss,0,NO,39690,3,39690,base-jumping,Rear Collision,Hillsdale,Police,0,NY,OH,0,FEMALE,100/300,0,Suburu,3,unmarried,N
+Major Damage,0,,50940,0,62260,golf,Rear Collision,Springfield,Ambulance,5660,SC,IL,2,FEMALE,500/1000,5660,Saab,1,husband,N
+Major Damage,0,NO,37760,1,51920,paintball,Side Collision,Hillsdale,Police,4720,NC,IL,0,FEMALE,250/500,9440,Audi,1,not-in-family,Y
+Minor Damage,5000000,,38880,2,53460,bungie-jumping,Front Collision,Riverwood,Other,4860,NY,IL,2,MALE,250/500,9720,Volkswagen,1,wife,N
+Total Loss,0,YES,45680,1,57100,golf,Rear Collision,Arlington,Fire,5710,SC,OH,2,FEMALE,100/300,5710,Honda,3,not-in-family,N
+Total Loss,0,NO,56320,3,77440,yachting,Front Collision,Springfield,Ambulance,7040,NY,IN,2,MALE,250/500,14080,Dodge,3,unmarried,N
+Minor Damage,0,NO,47810,2,68300,bungie-jumping,Side Collision,Riverwood,Ambulance,13660,NY,IL,1,MALE,500/1000,6830,Suburu,1,husband,N
+Trivial Damage,0,,3680,2,5060,base-jumping,,Arlington,,920,NY,OH,0,MALE,500/1000,460,Honda,1,other-relative,N
+Total Loss,0,,39600,2,59400,chess,Side Collision,Columbus,Ambulance,13200,WV,IL,0,MALE,100/300,6600,Dodge,3,not-in-family,Y
+Major Damage,0,NO,54390,2,69930,cross-fit,Side Collision,Springfield,Ambulance,15540,NY,IL,0,FEMALE,100/300,0,Ford,3,other-relative,Y
+Minor Damage,0,YES,54390,1,77700,board-games,Front Collision,Springfield,Police,15540,NY,IN,1,FEMALE,100/300,7770,Jeep,3,husband,N
+Major Damage,0,NO,43750,1,68750,yachting,Front Collision,Northbend,Other,12500,SC,OH,2,MALE,500/1000,12500,Audi,3,wife,Y
+Minor Damage,6000000,NO,57960,3,91080,movies,Side Collision,Riverwood,Police,16560,NY,OH,1,FEMALE,100/300,16560,Jeep,3,husband,N
+Minor Damage,4000000,NO,36270,3,48360,golf,Side Collision,Columbus,Other,8060,WV,IN,1,FEMALE,500/1000,4030,Audi,1,other-relative,N
+Major Damage,0,YES,76000,1,95000,kayaking,Side Collision,Hillsdale,Other,9500,WV,OH,1,MALE,250/500,9500,Ford,1,other-relative,N
+Trivial Damage,4000000,,2730,3,3900,yachting,,Arlington,Police,390,SC,OH,1,MALE,100/300,780,Ford,1,other-relative,N
+Minor Damage,9000000,,41580,3,59400,cross-fit,Front Collision,Riverwood,Other,5940,NC,IL,0,MALE,500/1000,11880,Jeep,3,other-relative,Y
+Minor Damage,7000000,,46830,0,60210,camping,Rear Collision,Springfield,Fire,6690,NC,OH,2,FEMALE,500/1000,6690,Nissan,1,other-relative,N
+Minor Damage,0,,30520,3,43600,video-games,Front Collision,Columbus,Ambulance,4360,SC,IL,0,MALE,250/500,8720,Suburu,1,other-relative,N
+Total Loss,0,NO,43960,0,62800,sleeping,Front Collision,Northbrook,Police,12560,SC,IN,0,MALE,100/300,6280,Jeep,3,unmarried,N
+Major Damage,0,YES,41650,3,59500,skydiving,Side Collision,Springfield,Ambulance,5950,VA,OH,1,MALE,250/500,11900,Dodge,1,husband,N
+Total Loss,4000000,YES,41580,0,53460,skydiving,Front Collision,Northbend,Police,5940,WV,OH,1,FEMALE,250/500,5940,Honda,3,not-in-family,N
+Total Loss,6000000,NO,26530,1,41690,reading,Side Collision,Northbend,Ambulance,7580,NY,IL,0,FEMALE,100/300,7580,Saab,3,wife,N
+Minor Damage,7000000,,44170,1,63100,paintball,Side Collision,Arlington,Ambulance,12620,NY,OH,0,FEMALE,100/300,6310,Accura,1,wife,N
+Total Loss,5000000,NO,47160,1,62880,chess,Front Collision,Arlington,Ambulance,10480,WV,OH,2,MALE,500/1000,5240,Mercedes,1,other-relative,Y
+Major Damage,0,,46400,2,75400,paintball,Side Collision,Northbend,Fire,11600,NY,IL,2,FEMALE,100/300,17400,BMW,3,not-in-family,Y
+Total Loss,0,YES,33600,1,46200,hiking,Rear Collision,Arlington,Ambulance,8400,SC,OH,1,MALE,250/500,4200,Audi,1,husband,N
+Major Damage,0,NO,46800,2,58500,sleeping,Rear Collision,Hillsdale,Ambulance,5850,VA,IN,2,MALE,500/1000,5850,Toyota,1,not-in-family,N
+Major Damage,0,NO,44160,3,66240,bungie-jumping,Rear Collision,Columbus,Other,11040,SC,OH,1,MALE,500/1000,11040,Nissan,3,husband,N
+Total Loss,0,,49080,3,65440,camping,Rear Collision,Hillsdale,Ambulance,8180,PA,IN,1,FEMALE,100/300,8180,Jeep,3,wife,N
+Minor Damage,0,NO,42800,3,64200,exercise,Front Collision,Hillsdale,Fire,10700,SC,IL,0,MALE,500/1000,10700,Ford,1,other-relative,N
+Minor Damage,0,YES,24240,0,32320,dancing,Rear Collision,Northbend,Ambulance,4040,WV,IN,1,FEMALE,100/300,4040,Dodge,3,not-in-family,N
+Major Damage,0,,26040,1,33480,golf,Rear Collision,Northbend,Police,3720,SC,IL,0,FEMALE,500/1000,3720,Dodge,1,wife,N
+Trivial Damage,7000000,NO,2880,1,4320,polo,,Northbend,,960,VA,OH,1,MALE,250/500,480,Toyota,1,wife,N
+Trivial Damage,5000000,NO,2940,2,4200,exercise,,Hillsdale,Police,420,SC,IL,0,MALE,250/500,840,Jeep,1,other-relative,N
+Minor Damage,0,YES,42160,0,57970,sleeping,Front Collision,Arlington,Ambulance,5270,NY,OH,2,MALE,100/300,10540,Saab,3,own-child,N
+Trivial Damage,0,YES,3360,2,4320,paintball,,Arlington,,960,NY,IN,1,MALE,500/1000,0,Saab,1,husband,N
+Minor Damage,0,,48510,2,69300,reading,Front Collision,Columbus,Fire,6930,SC,IL,0,FEMALE,500/1000,13860,Ford,3,wife,N
+Minor Damage,0,NO,24360,2,32480,camping,Side Collision,Riverwood,Police,4060,NC,OH,2,FEMALE,100/300,4060,Dodge,3,own-child,N
+Total Loss,0,,47040,2,60480,hiking,Front Collision,Hillsdale,Police,6720,NY,IN,2,MALE,100/300,6720,Accura,1,not-in-family,N
+Trivial Damage,5000000,YES,1760,0,2640,polo,,Springfield,Police,440,NC,IL,0,MALE,250/500,440,Honda,1,unmarried,N
+Trivial Damage,0,NO,4400,3,6050,skydiving,,Northbend,Police,1100,SC,OH,0,MALE,500/1000,550,Volkswagen,1,other-relative,N
+Total Loss,4000000,NO,34160,0,42700,chess,Rear Collision,Hillsdale,Ambulance,4270,NC,OH,0,MALE,250/500,4270,Saab,4,wife,Y
+Major Damage,0,YES,29280,3,40260,reading,Front Collision,Hillsdale,Ambulance,7320,SC,IN,1,MALE,250/500,3660,Accura,1,wife,Y
+Major Damage,0,NO,35000,0,50000,polo,Rear Collision,Columbus,Fire,10000,NY,OH,2,MALE,500/1000,5000,Chevrolet,1,wife,N
+Trivial Damage,5000000,NO,2880,1,3840,golf,,Riverwood,,320,NY,IN,0,FEMALE,250/500,640,Saab,1,husband,N
+Minor Damage,0,,61650,2,95900,video-games,Rear Collision,Springfield,Police,20550,WV,IL,0,MALE,250/500,13700,Saab,3,not-in-family,N
+Minor Damage,0,YES,37440,3,56160,bungie-jumping,Side Collision,Northbend,Ambulance,12480,WV,IN,1,MALE,250/500,6240,Audi,3,other-relative,N
+Major Damage,0,NO,45840,3,63030,sleeping,Side Collision,Riverwood,Police,11460,SC,OH,2,MALE,100/300,5730,Saab,1,not-in-family,N
+Minor Damage,5000000,YES,46160,2,63470,skydiving,Front Collision,Riverwood,Police,11540,NY,IL,2,FEMALE,250/500,5770,BMW,1,own-child,N
+Major Damage,0,,32320,2,44440,movies,Front Collision,Columbus,Police,4040,WV,IL,0,FEMALE,250/500,8080,BMW,1,other-relative,Y
+Minor Damage,0,YES,4200,1,6600,paintball,,Northbrook,Police,1200,WV,IN,1,MALE,250/500,1200,Jeep,1,husband,N
+Minor Damage,0,NO,57900,0,77200,kayaking,Side Collision,Northbrook,Ambulance,9650,WV,OH,2,MALE,250/500,9650,Ford,3,husband,N
+Total Loss,0,,45600,0,57000,reading,Rear Collision,Springfield,Other,11400,WV,OH,0,FEMALE,100/300,0,Audi,3,husband,N
+Trivial Damage,0,NO,2100,1,2700,movies,,Riverwood,Police,300,WV,OH,2,FEMALE,250/500,300,Honda,1,wife,N
+Total Loss,5000000,,34400,1,47300,kayaking,Rear Collision,Hillsdale,Police,8600,WV,OH,2,MALE,250/500,4300,Volkswagen,1,unmarried,N
+Major Damage,0,,40080,3,55110,sleeping,Rear Collision,Arlington,Other,10020,VA,OH,2,FEMALE,250/500,5010,Nissan,1,unmarried,N
+Trivial Damage,0,YES,3360,0,4320,reading,,Springfield,Police,480,SC,IN,1,FEMALE,500/1000,480,Mercedes,1,husband,N
+Total Loss,0,YES,51570,2,68760,video-games,Front Collision,Arlington,Police,5730,VA,OH,2,FEMALE,250/500,11460,Saab,3,husband,Y
+Major Damage,9000000,NO,52080,1,74400,paintball,Front Collision,Arlington,Other,7440,WV,IL,2,FEMALE,250/500,14880,BMW,2,husband,Y
+Major Damage,0,NO,28240,1,35300,base-jumping,Rear Collision,Hillsdale,Fire,3530,NY,OH,2,FEMALE,250/500,3530,Mercedes,4,other-relative,Y
+Minor Damage,0,YES,1680,3,2640,camping,,Springfield,,480,NY,IL,1,MALE,500/1000,480,Volkswagen,1,wife,N
+Total Loss,0,,46300,1,60190,cross-fit,Rear Collision,Columbus,Ambulance,9260,SC,IL,1,MALE,250/500,4630,Mercedes,3,unmarried,Y
+Major Damage,0,YES,30240,3,41580,exercise,Rear Collision,Northbend,Fire,7560,NY,IL,1,FEMALE,500/1000,3780,Chevrolet,3,own-child,Y
+Minor Damage,0,YES,46800,0,58500,cross-fit,Side Collision,Columbus,Ambulance,0,NY,IN,0,FEMALE,250/500,11700,Accura,1,unmarried,Y
+Minor Damage,0,YES,59490,3,79320,movies,Rear Collision,Riverwood,Fire,6610,SC,IN,2,FEMALE,500/1000,13220,Nissan,1,not-in-family,N
+Minor Damage,0,YES,67590,2,82610,chess,Rear Collision,Arlington,Ambulance,7510,NY,OH,0,FEMALE,100/300,7510,Ford,1,husband,Y
+Total Loss,0,NO,45850,3,78600,video-games,Rear Collision,Hillsdale,Ambulance,19650,SC,OH,1,FEMALE,100/300,13100,Dodge,3,husband,Y
+Minor Damage,0,NO,39970,2,51390,chess,Front Collision,Columbus,Ambulance,5710,SC,OH,1,MALE,100/300,5710,Volkswagen,1,husband,Y
+Major Damage,0,NO,56160,0,70200,exercise,Side Collision,Springfield,Ambulance,7020,NC,IN,1,MALE,500/1000,7020,Ford,1,other-relative,Y
+Minor Damage,0,NO,2940,1,4900,base-jumping,,Riverwood,,1470,SC,IL,2,MALE,250/500,490,Jeep,1,own-child,N
+Major Damage,0,,49860,3,66480,chess,Side Collision,Hillsdale,Other,11080,PA,OH,1,FEMALE,250/500,5540,Saab,3,own-child,Y
+Major Damage,5000000,NO,36640,1,50380,reading,Rear Collision,Riverwood,Fire,9160,NC,OH,2,MALE,500/1000,4580,Chevrolet,1,own-child,Y
+Major Damage,0,YES,44550,2,64350,paintball,Front Collision,Columbus,Fire,9900,SC,IL,0,FEMALE,500/1000,9900,Mercedes,1,wife,N
+Major Damage,5000000,YES,38780,3,55400,hiking,Rear Collision,Springfield,Ambulance,11080,NC,IN,2,MALE,250/500,5540,Chevrolet,3,other-relative,Y
+Total Loss,0,NO,34930,2,49900,basketball,Front Collision,Columbus,Other,9980,NY,OH,2,MALE,100/300,4990,Dodge,1,wife,N
+Minor Damage,4000000,NO,49920,3,74880,golf,Side Collision,Northbrook,Ambulance,12480,WV,OH,0,MALE,500/1000,12480,Accura,3,other-relative,N
+Minor Damage,0,YES,73260,0,105820,exercise,Front Collision,Northbend,Other,16280,NY,OH,0,FEMALE,250/500,16280,Audi,1,husband,N
+Trivial Damage,0,NO,5200,0,7150,golf,,Northbend,Police,650,PA,IN,1,MALE,250/500,1300,Volkswagen,1,own-child,N
+Total Loss,0,YES,33480,0,55800,dancing,Front Collision,Northbrook,Ambulance,11160,SC,IN,0,MALE,500/1000,11160,Dodge,1,own-child,N
+Trivial Damage,0,,3710,3,5830,kayaking,,Riverwood,,1060,NY,OH,1,MALE,100/300,1060,Dodge,1,other-relative,N
+Major Damage,0,YES,51540,1,85900,polo,Side Collision,Riverwood,Ambulance,17180,WV,OH,2,FEMALE,100/300,17180,Suburu,1,unmarried,Y
+Minor Damage,0,NO,4740,3,7110,base-jumping,,Columbus,Police,1580,OH,OH,2,MALE,500/1000,790,Accura,1,other-relative,N
+Total Loss,0,NO,26880,0,36960,kayaking,Side Collision,Columbus,Fire,3360,WV,IL,0,MALE,250/500,6720,Chevrolet,3,other-relative,N
+Minor Damage,0,,51520,0,64400,movies,Rear Collision,Northbrook,Police,6440,VA,OH,2,FEMALE,250/500,6440,Dodge,3,own-child,N
+Minor Damage,0,NO,1440,3,1920,sleeping,,Northbend,,0,NC,OH,1,MALE,250/500,480,Chevrolet,1,unmarried,N
+Major Damage,0,YES,62640,1,86130,polo,Rear Collision,Northbend,Police,7830,SC,IN,0,MALE,500/1000,15660,Suburu,1,not-in-family,Y
+Major Damage,5000000,,59760,3,82170,cross-fit,Side Collision,Northbrook,Fire,7470,VA,IL,2,FEMALE,250/500,14940,Chevrolet,1,other-relative,Y
+Major Damage,0,,35210,0,50300,camping,Front Collision,Hillsdale,Fire,5030,WV,IN,1,FEMALE,100/300,10060,Suburu,1,own-child,Y
+Major Damage,0,NO,30940,0,44200,camping,Side Collision,Riverwood,Police,8840,SC,IN,0,FEMALE,250/500,4420,Suburu,1,husband,N
+Major Damage,0,,54540,2,66660,polo,Side Collision,Northbrook,Ambulance,6060,VA,IN,2,FEMALE,100/300,6060,Toyota,1,other-relative,N
+Total Loss,0,YES,56960,3,78320,bungie-jumping,Front Collision,Riverwood,Ambulance,14240,SC,OH,2,FEMALE,250/500,7120,Saab,1,husband,N
+Total Loss,0,,72720,1,105040,skydiving,Rear Collision,Columbus,Fire,16160,WV,IN,0,FEMALE,250/500,16160,Dodge,1,wife,N
+Minor Damage,6000000,NO,40560,1,50700,basketball,Side Collision,Hillsdale,Fire,5070,NY,IN,2,MALE,250/500,5070,Accura,1,husband,N
+Total Loss,0,NO,34140,1,51210,exercise,Front Collision,Northbend,Fire,5690,WV,IL,1,FEMALE,100/300,11380,Jeep,3,unmarried,N
+Total Loss,0,NO,34560,1,51840,dancing,Rear Collision,Hillsdale,Fire,8640,SC,OH,2,MALE,100/300,8640,Volkswagen,3,unmarried,N
+Total Loss,0,,42240,3,52800,exercise,Front Collision,Riverwood,Ambulance,5280,NC,IL,2,FEMALE,500/1000,5280,Nissan,3,husband,N
+Minor Damage,0,,32200,0,55200,kayaking,Front Collision,Springfield,Fire,13800,WV,OH,0,FEMALE,500/1000,9200,Honda,1,own-child,N
+Minor Damage,0,YES,6300,3,9100,camping,,Riverwood,,1400,WV,IN,0,MALE,100/300,1400,Chevrolet,1,not-in-family,N
+Minor Damage,0,,47320,3,67600,reading,Rear Collision,Riverwood,Other,6760,WV,IN,1,FEMALE,250/500,13520,Suburu,3,husband,N
+Minor Damage,6000000,NO,27200,2,40800,golf,Rear Collision,Columbus,Other,6800,NC,OH,1,MALE,250/500,6800,BMW,1,not-in-family,N
+Major Damage,0,NO,58500,1,84500,board-games,Side Collision,Springfield,Other,13000,WV,IN,2,MALE,250/500,13000,Volkswagen,3,not-in-family,Y
+Major Damage,5000000,YES,52080,2,71610,hiking,Front Collision,Arlington,Other,6510,SC,IN,2,MALE,500/1000,13020,Toyota,3,husband,Y
+Major Damage,0,,42420,2,60600,yachting,Rear Collision,Arlington,Other,12120,SC,IN,0,MALE,250/500,6060,Dodge,4,own-child,Y
+Major Damage,0,NO,54160,3,81240,reading,Rear Collision,Riverwood,Fire,20310,NC,IL,2,MALE,100/300,6770,Mercedes,3,unmarried,Y
+Total Loss,0,YES,20510,3,29300,bungie-jumping,Side Collision,Springfield,Fire,5860,WV,OH,0,FEMALE,250/500,2930,Audi,3,not-in-family,N
+Total Loss,0,NO,55600,1,76450,skydiving,Side Collision,Northbend,Fire,13900,WV,IL,1,FEMALE,500/1000,6950,Dodge,3,own-child,N
+Major Damage,0,YES,34580,3,49400,cross-fit,Side Collision,Northbrook,Fire,4940,NY,IL,0,FEMALE,100/300,9880,Jeep,3,husband,N
+Total Loss,0,NO,57610,1,90530,kayaking,Side Collision,Northbrook,Ambulance,16460,SC,IL,0,FEMALE,100/300,16460,Ford,1,wife,N
+Minor Damage,5000000,NO,5840,1,8030,movies,,Northbrook,Police,730,WV,OH,2,FEMALE,500/1000,1460,Mercedes,1,not-in-family,N
+Minor Damage,0,NO,51120,0,63900,movies,Side Collision,Columbus,Fire,6390,NY,IL,0,FEMALE,100/300,6390,Accura,1,not-in-family,N
+Minor Damage,0,YES,28980,2,38640,golf,Rear Collision,Northbend,Fire,4830,NC,IL,0,MALE,250/500,4830,Chevrolet,4,unmarried,N
+Total Loss,0,,27660,1,41490,movies,Rear Collision,Columbus,Other,4610,NY,IN,1,MALE,100/300,9220,Mercedes,3,not-in-family,N
+Minor Damage,0,YES,57520,0,79090,hiking,Side Collision,Springfield,Fire,7190,VA,IN,2,FEMALE,100/300,14380,Nissan,3,unmarried,N
+Major Damage,0,,61530,0,87900,cross-fit,Side Collision,Springfield,Police,8790,WV,IL,0,MALE,100/300,17580,Dodge,3,wife,N
+Total Loss,0,,42720,3,53400,yachting,Rear Collision,Columbus,Ambulance,5340,WV,IL,2,MALE,500/1000,5340,Jeep,1,husband,N
+Total Loss,0,YES,33110,3,52030,basketball,Rear Collision,Springfield,Fire,9460,SC,OH,2,MALE,250/500,9460,Accura,1,unmarried,N
+Minor Damage,0,NO,59680,2,82060,bungie-jumping,Front Collision,Arlington,Ambulance,7460,VA,IN,0,MALE,250/500,14920,Saab,1,wife,N
+Minor Damage,0,,32240,3,48360,hiking,Front Collision,Northbrook,Ambulance,8060,NY,OH,0,FEMALE,250/500,8060,Nissan,1,not-in-family,N
+Minor Damage,0,,34860,1,52290,kayaking,Side Collision,Hillsdale,Other,11620,NY,OH,2,FEMALE,250/500,5810,Nissan,3,unmarried,N
+Major Damage,5000000,YES,43400,3,68200,paintball,Rear Collision,Arlington,Police,12400,SC,IL,0,MALE,100/300,12400,Jeep,3,wife,Y
+Major Damage,6000000,,40500,1,60750,basketball,Rear Collision,Columbus,Other,6750,NY,IL,2,MALE,100/300,13500,Jeep,3,wife,Y
+Major Damage,0,,41720,2,65560,paintball,Front Collision,Arlington,Fire,11920,SC,IN,0,FEMALE,500/1000,11920,Volkswagen,3,wife,Y
+Minor Damage,0,YES,44730,3,70290,basketball,Rear Collision,Arlington,Police,12780,NY,IN,1,FEMALE,500/1000,12780,Mercedes,3,husband,N
+Total Loss,0,,35000,0,45000,hiking,Rear Collision,Columbus,Ambulance,5000,SC,OH,2,FEMALE,100/300,5000,Suburu,1,own-child,N
+Total Loss,0,YES,43260,1,61800,sleeping,Rear Collision,Riverwood,Fire,6180,VA,IL,2,FEMALE,500/1000,12360,Suburu,3,other-relative,N
+Major Damage,0,YES,46960,0,64570,movies,Front Collision,Columbus,Ambulance,11740,NY,IL,0,FEMALE,100/300,5870,Jeep,3,husband,N
+Minor Damage,0,YES,49350,0,70500,reading,Rear Collision,Springfield,Other,14100,VA,IL,2,FEMALE,100/300,7050,Suburu,1,unmarried,N
+Total Loss,0,,34740,1,57900,movies,Side Collision,Northbrook,Police,5790,SC,IL,2,MALE,100/300,17370,Audi,3,other-relative,N
+Minor Damage,0,NO,42080,0,57860,video-games,Front Collision,Northbrook,Fire,10520,WV,IL,1,FEMALE,250/500,5260,Volkswagen,3,own-child,N
+Minor Damage,0,,25200,1,37800,polo,Side Collision,Northbrook,Fire,4200,VA,IN,1,MALE,100/300,8400,Chevrolet,1,husband,N
+Total Loss,0,,50640,3,63300,hiking,Front Collision,Northbend,Ambulance,6330,NY,OH,1,FEMALE,500/1000,6330,Toyota,1,own-child,N
+Total Loss,0,YES,30940,1,44200,paintball,Rear Collision,Northbrook,Ambulance,4420,WV,IN,0,FEMALE,250/500,8840,Saab,3,own-child,N
+Minor Damage,0,NO,24640,0,31680,yachting,Side Collision,Arlington,Police,3520,WV,IL,1,MALE,250/500,3520,Toyota,4,husband,N
+Trivial Damage,0,YES,70,2,100,kayaking,,Northbrook,Police,20,WV,IN,1,FEMALE,100/300,10,Audi,1,not-in-family,N
+Minor Damage,0,NO,43820,1,56340,bungie-jumping,Front Collision,Columbus,Fire,6260,WV,IN,2,FEMALE,100/300,6260,Volkswagen,1,other-relative,N
+Total Loss,0,,57060,0,69740,skydiving,Rear Collision,Springfield,Police,6340,NC,IN,0,FEMALE,100/300,6340,Dodge,3,own-child,N
+Total Loss,0,YES,40320,2,60480,exercise,Front Collision,Springfield,Police,15120,WV,IL,2,MALE,100/300,5040,Volkswagen,3,not-in-family,N
+Minor Damage,0,,60660,1,80880,skydiving,Rear Collision,Hillsdale,Police,13480,NC,IN,2,FEMALE,500/1000,6740,Nissan,3,wife,N
+Total Loss,0,,35920,2,49390,dancing,Front Collision,Hillsdale,Fire,4490,WV,IN,1,FEMALE,250/500,8980,Suburu,1,not-in-family,N
+Minor Damage,0,NO,46240,3,69360,video-games,Front Collision,Riverwood,Ambulance,11560,NC,IN,0,FEMALE,100/300,11560,Dodge,1,other-relative,N
+Minor Damage,0,NO,2380,1,3740,board-games,,Springfield,,680,NY,OH,0,FEMALE,500/1000,680,Chevrolet,1,other-relative,N
+Trivial Damage,0,NO,3680,1,5060,bungie-jumping,,Hillsdale,,920,NY,IL,0,MALE,250/500,460,Nissan,1,husband,N
+Total Loss,0,NO,26080,0,35860,chess,Front Collision,Columbus,Police,6520,WV,IL,0,FEMALE,500/1000,3260,BMW,3,wife,Y
+Major Damage,0,YES,38500,1,50050,cross-fit,Front Collision,Columbus,Ambulance,3850,NY,IN,2,MALE,100/300,7700,Ford,3,husband,Y
+Minor Damage,0,YES,42960,0,59070,dancing,Rear Collision,Northbend,Fire,5370,NY,IL,0,MALE,500/1000,10740,Toyota,4,unmarried,N
+Minor Damage,0,NO,22120,2,28440,board-games,Front Collision,Riverwood,Fire,3160,SC,IN,1,MALE,500/1000,3160,Dodge,3,husband,N
+Major Damage,0,YES,28980,1,45540,hiking,Front Collision,Springfield,Fire,8280,OH,IL,2,FEMALE,250/500,8280,Honda,1,wife,Y
+Minor Damage,0,,27090,0,38700,reading,Rear Collision,Arlington,Fire,3870,VA,IN,0,FEMALE,100/300,7740,Volkswagen,1,not-in-family,N
+Trivial Damage,0,YES,4240,1,5830,paintball,,Northbrook,,530,SC,OH,2,MALE,250/500,1060,Nissan,1,other-relative,N
+Total Loss,7000000,YES,42930,2,57240,cross-fit,Rear Collision,Northbend,Other,9540,NY,IL,0,FEMALE,500/1000,4770,BMW,1,husband,Y
+Total Loss,0,YES,33600,3,46200,exercise,Rear Collision,Riverwood,Police,8400,VA,OH,0,MALE,100/300,4200,Suburu,3,husband,N
+Total Loss,0,YES,46160,1,57700,kayaking,Side Collision,Columbus,Ambulance,5770,NY,IN,0,FEMALE,100/300,5770,Toyota,1,wife,N
+Minor Damage,7000000,NO,42120,0,56160,hiking,Front Collision,Northbrook,Fire,9360,WV,IL,2,MALE,250/500,4680,Saab,3,not-in-family,N
+Total Loss,7000000,,33300,3,44400,movies,Side Collision,Columbus,Fire,5550,WV,IN,0,MALE,250/500,5550,Jeep,3,unmarried,N
+Major Damage,4000000,,67440,3,92730,reading,Rear Collision,Hillsdale,Ambulance,8430,NY,IN,2,MALE,100/300,16860,Mercedes,1,own-child,Y
+Minor Damage,0,YES,21490,1,30700,paintball,Side Collision,Northbrook,Fire,6140,NC,OH,0,FEMALE,250/500,3070,Toyota,1,not-in-family,N
+Major Damage,4000000,NO,39620,0,56600,yachting,Side Collision,Northbrook,Fire,5660,NY,OH,2,FEMALE,250/500,11320,Toyota,1,unmarried,N
+Trivial Damage,0,YES,2640,1,3960,dancing,,Hillsdale,,660,VA,IN,0,FEMALE,500/1000,660,Audi,1,own-child,N
+Minor Damage,0,YES,24360,3,34800,video-games,Rear Collision,Arlington,Police,6960,SC,IL,0,MALE,250/500,3480,Accura,1,unmarried,N
+Minor Damage,0,,63600,0,79500,kayaking,Rear Collision,Riverwood,Other,7950,NY,IN,2,FEMALE,250/500,7950,Chevrolet,3,not-in-family,N
+Total Loss,3000000,,44800,2,56000,basketball,Front Collision,Arlington,Police,5600,NY,IN,2,FEMALE,250/500,5600,Chevrolet,1,other-relative,N
+Minor Damage,0,YES,56980,0,73260,chess,Rear Collision,Arlington,Ambulance,0,NC,IN,1,FEMALE,250/500,16280,Volkswagen,1,not-in-family,Y
+Trivial Damage,0,YES,3600,3,4950,base-jumping,,Arlington,,450,WV,OH,2,MALE,250/500,900,Toyota,1,unmarried,N
+Minor Damage,0,NO,33600,1,48000,kayaking,Rear Collision,Hillsdale,Ambulance,9600,WV,IN,0,MALE,500/1000,4800,Saab,1,own-child,N
+Major Damage,0,YES,36540,1,52200,dancing,Side Collision,Arlington,Fire,5220,SC,IN,0,MALE,250/500,10440,Nissan,1,wife,N
+Minor Damage,0,NO,49200,3,73800,dancing,Rear Collision,Springfield,Ambulance,12300,NY,IN,2,FEMALE,250/500,12300,Audi,3,unmarried,N
+Total Loss,0,,54740,2,78200,base-jumping,Side Collision,Northbend,Fire,7820,NC,IL,1,FEMALE,250/500,15640,Audi,1,other-relative,N
+Major Damage,0,,32200,3,55200,bungie-jumping,Rear Collision,Northbend,Ambulance,9200,VA,IN,2,MALE,250/500,13800,Saab,1,husband,Y
+Total Loss,0,NO,44380,2,57060,kayaking,Side Collision,Northbend,Other,6340,NY,IL,0,FEMALE,500/1000,6340,Ford,3,own-child,N
+Minor Damage,0,NO,3640,3,4680,dancing,,Arlington,,520,WV,OH,0,FEMALE,250/500,520,Chevrolet,1,husband,N
+Minor Damage,4000000,NO,42480,0,53100,cross-fit,Front Collision,Hillsdale,Ambulance,5310,VA,IN,2,FEMALE,250/500,5310,Accura,1,not-in-family,Y
+Minor Damage,7000000,,2560,2,3520,video-games,,Springfield,,320,WV,OH,1,FEMALE,500/1000,640,Accura,1,husband,N
+Total Loss,0,NO,43740,1,72900,dancing,Front Collision,Riverwood,Ambulance,14580,VA,IL,0,FEMALE,500/1000,14580,Nissan,3,own-child,N
+Total Loss,0,,49490,1,70700,camping,Rear Collision,Arlington,Police,14140,SC,IN,0,FEMALE,250/500,7070,Volkswagen,1,unmarried,N
+Minor Damage,0,,43760,0,60170,bungie-jumping,Side Collision,Columbus,Other,10940,SC,IL,0,FEMALE,100/300,5470,Nissan,4,wife,N
+Major Damage,0,,54400,1,74800,paintball,Rear Collision,Columbus,Other,6800,SC,IN,1,MALE,100/300,13600,Ford,1,husband,Y
+Trivial Damage,0,YES,2870,0,4100,paintball,,Northbend,Police,410,WV,IL,2,MALE,250/500,820,Chevrolet,1,wife,N
+Minor Damage,0,YES,44720,3,61490,camping,Side Collision,Columbus,Other,11180,SC,IN,0,MALE,250/500,5590,Dodge,1,husband,N
+Trivial Damage,0,,5040,0,7200,basketball,,Hillsdale,,1440,VA,IL,0,MALE,250/500,720,Audi,1,own-child,N
+Minor Damage,0,,32800,0,45100,polo,Side Collision,Arlington,Fire,4100,NY,IN,0,FEMALE,500/1000,8200,Nissan,3,not-in-family,N
+Minor Damage,0,,48480,3,66660,camping,Front Collision,Northbend,Police,6060,WV,OH,2,MALE,250/500,12120,Honda,1,not-in-family,N
+Major Damage,0,NO,53480,2,76400,basketball,Front Collision,Northbrook,Police,7640,NC,OH,2,FEMALE,500/1000,15280,Volkswagen,1,not-in-family,Y
+Total Loss,0,YES,37100,1,58300,kayaking,Rear Collision,Riverwood,Ambulance,10600,PA,IN,1,FEMALE,250/500,10600,Ford,1,not-in-family,N
+Total Loss,0,,41680,1,57310,skydiving,Front Collision,Riverwood,Police,10420,SC,IL,1,FEMALE,100/300,5210,Volkswagen,1,husband,N
+Minor Damage,0,,41300,1,53100,movies,Front Collision,Arlington,Fire,5900,NY,OH,0,FEMALE,500/1000,5900,Suburu,1,own-child,N
+Total Loss,0,NO,52290,1,74700,paintball,Side Collision,Riverwood,Ambulance,7470,WV,OH,1,FEMALE,250/500,14940,Suburu,3,husband,N
+Major Damage,0,NO,42350,2,60500,golf,Rear Collision,Riverwood,Fire,6050,SC,OH,2,FEMALE,250/500,12100,Audi,3,own-child,N
+Total Loss,0,YES,61760,3,84920,chess,Side Collision,Riverwood,Other,15440,NC,OH,2,MALE,250/500,7720,Jeep,3,unmarried,Y
+Total Loss,5000000,NO,44400,0,61050,hiking,Side Collision,Northbrook,Police,11100,PA,IL,2,FEMALE,500/1000,5550,Dodge,1,own-child,N
+Major Damage,0,YES,50240,0,69080,movies,Rear Collision,Hillsdale,Police,6280,NY,IL,2,MALE,250/500,12560,Audi,3,other-relative,Y
+Minor Damage,0,YES,3420,3,4560,paintball,,Arlington,,380,VA,IN,1,FEMALE,250/500,760,Nissan,1,own-child,N
+Total Loss,0,NO,45200,1,67800,skydiving,Rear Collision,Northbend,Police,11300,WV,IN,0,FEMALE,250/500,11300,Ford,4,other-relative,N
+Minor Damage,0,YES,3920,1,5600,reading,,Riverwood,Police,560,SC,OH,1,MALE,250/500,1120,Suburu,1,wife,N
+Minor Damage,7000000,,6300,2,9000,basketball,,Northbrook,,1800,NC,IN,0,MALE,500/1000,900,Mercedes,1,wife,N
+Total Loss,0,NO,56880,1,85320,kayaking,Rear Collision,Northbend,Police,7110,VA,IN,0,FEMALE,100/300,21330,Nissan,1,other-relative,N
+Trivial Damage,0,NO,4320,3,5940,golf,,Arlington,,1080,NC,IL,0,FEMALE,100/300,540,Audi,1,other-relative,Y
+Major Damage,0,YES,37360,1,51370,movies,Side Collision,Arlington,Fire,4670,SC,OH,1,FEMALE,250/500,9340,BMW,3,husband,Y
+Major Damage,0,NO,36120,2,51600,reading,Rear Collision,Northbrook,Police,5160,SC,OH,2,MALE,250/500,10320,Dodge,1,own-child,N
+Trivial Damage,0,NO,4200,3,5400,golf,,Arlington,,600,SC,OH,0,FEMALE,100/300,600,Chevrolet,1,own-child,N
+Minor Damage,0,,38010,0,48870,reading,Rear Collision,Northbrook,Fire,5430,SC,OH,1,MALE,500/1000,5430,Saab,3,unmarried,N
+Minor Damage,0,NO,3870,1,5590,reading,,Springfield,Police,860,WV,IN,2,FEMALE,500/1000,860,BMW,1,husband,N
+Major Damage,0,,48090,2,54960,camping,Front Collision,Springfield,Other,0,NY,IL,0,MALE,500/1000,6870,Toyota,3,wife,Y
+Minor Damage,0,NO,27860,3,39800,video-games,Side Collision,Northbrook,Police,3980,VA,OH,1,FEMALE,500/1000,7960,Jeep,3,own-child,N
+Major Damage,0,,43680,1,56160,chess,Side Collision,Columbus,Ambulance,6240,SC,IN,0,FEMALE,500/1000,6240,Ford,3,own-child,Y
+Total Loss,0,NO,36890,3,52700,golf,Side Collision,Hillsdale,Fire,10540,VA,IN,0,MALE,100/300,5270,Toyota,1,not-in-family,N
+Minor Damage,0,YES,53340,3,68580,base-jumping,Side Collision,Riverwood,Fire,7620,NY,OH,1,FEMALE,500/1000,7620,Jeep,3,not-in-family,N
+Major Damage,7000000,YES,58410,2,90860,board-games,Side Collision,Springfield,Ambulance,19470,NY,IN,1,MALE,100/300,12980,Volkswagen,1,own-child,Y
+Trivial Damage,6000000,NO,4560,3,5700,bungie-jumping,,Northbend,Police,570,NC,IL,0,MALE,250/500,570,Saab,1,wife,N
+Total Loss,0,YES,77670,0,94930,golf,Side Collision,Hillsdale,Police,8630,NY,IN,2,MALE,100/300,8630,Accura,3,not-in-family,N
+Major Damage,0,NO,32760,2,46800,video-games,Side Collision,Northbend,Ambulance,9360,SC,OH,1,MALE,250/500,4680,Audi,1,not-in-family,Y
+Total Loss,0,NO,42240,3,56320,polo,Side Collision,Northbend,Fire,7040,NY,OH,2,FEMALE,500/1000,7040,Mercedes,3,wife,N
+Minor Damage,0,NO,60720,3,83490,chess,Front Collision,Hillsdale,Fire,15180,WV,OH,1,MALE,100/300,7590,Nissan,1,husband,N
+Total Loss,0,NO,46320,2,57900,golf,Side Collision,Northbrook,Police,5790,WV,IN,2,FEMALE,500/1000,5790,Saab,3,wife,N
+Total Loss,0,,38430,3,49410,kayaking,Rear Collision,Springfield,Fire,5490,SC,IN,1,MALE,250/500,5490,Audi,3,own-child,N
+Minor Damage,0,,52960,1,66200,reading,Side Collision,Northbend,Fire,6620,WV,OH,0,MALE,500/1000,6620,Suburu,3,own-child,N
+Minor Damage,0,NO,42720,1,64080,reading,Front Collision,Columbus,Fire,10680,NY,OH,0,MALE,100/300,10680,Toyota,1,husband,N
+Minor Damage,0,,29750,3,42500,dancing,Side Collision,Northbrook,Other,4250,SC,OH,2,FEMALE,250/500,8500,Nissan,3,other-relative,N
+Total Loss,0,NO,35600,3,48950,bungie-jumping,Side Collision,Columbus,Other,4450,SC,IL,2,MALE,500/1000,8900,Suburu,3,own-child,N
+Minor Damage,0,NO,37450,2,58850,golf,Rear Collision,Northbend,Other,10700,NY,IN,1,FEMALE,100/300,10700,Accura,3,own-child,N
+Minor Damage,0,YES,65920,2,82400,golf,Side Collision,Northbrook,Other,8240,NY,IL,0,FEMALE,500/1000,8240,Nissan,3,husband,N
+Minor Damage,0,YES,40680,0,54240,bungie-jumping,Rear Collision,Springfield,Ambulance,6780,WV,OH,2,FEMALE,500/1000,6780,Suburu,1,other-relative,N
+Minor Damage,0,,59360,2,74200,video-games,Front Collision,Arlington,Other,7420,SC,IL,0,FEMALE,250/500,7420,Jeep,3,other-relative,N
+Total Loss,0,YES,36890,1,47430,base-jumping,Front Collision,Hillsdale,Fire,5270,WV,IL,2,FEMALE,100/300,5270,Toyota,1,unmarried,N
+Major Damage,0,,47740,3,68200,polo,Rear Collision,Hillsdale,Fire,6820,SC,IL,1,FEMALE,250/500,13640,Dodge,1,other-relative,Y
+Minor Damage,0,NO,49700,0,63900,exercise,Front Collision,Hillsdale,Fire,7100,NY,IN,1,FEMALE,100/300,7100,Accura,1,husband,N
+Total Loss,0,NO,41510,3,59300,skydiving,Rear Collision,Riverwood,Ambulance,5930,NY,OH,0,FEMALE,100/300,11860,Dodge,2,not-in-family,N
+Minor Damage,6000000,NO,46830,2,66900,chess,Front Collision,Springfield,Other,13380,SC,IL,1,FEMALE,500/1000,6690,Suburu,3,other-relative,Y
+Major Damage,0,YES,29680,3,40810,skydiving,Rear Collision,Arlington,Police,7420,OH,OH,1,MALE,500/1000,3710,Ford,3,husband,Y
+Total Loss,0,,52780,0,75400,skydiving,Front Collision,Riverwood,Fire,7540,NY,IN,1,FEMALE,100/300,15080,Honda,1,not-in-family,N
+Minor Damage,0,NO,2940,0,4200,bungie-jumping,,Northbend,,840,WV,IN,2,FEMALE,500/1000,420,Jeep,1,husband,N
+Major Damage,0,YES,40950,0,52650,chess,Side Collision,Hillsdale,Ambulance,5850,NY,OH,0,FEMALE,100/300,5850,Ford,3,wife,Y
+Major Damage,0,,26880,2,42240,kayaking,Rear Collision,Hillsdale,Ambulance,7680,WV,IL,0,FEMALE,250/500,7680,Chevrolet,1,own-child,N
+Minor Damage,0,YES,46270,0,59490,reading,Side Collision,Riverwood,Other,6610,NC,IN,1,FEMALE,500/1000,6610,Mercedes,1,husband,N
+Major Damage,8000000,NO,35360,2,44200,base-jumping,Side Collision,Arlington,Ambulance,4420,SC,IL,0,MALE,100/300,4420,Jeep,1,unmarried,Y
+Trivial Damage,0,YES,5390,2,7700,reading,,Springfield,Police,1540,WV,IN,1,FEMALE,100/300,770,Saab,1,unmarried,N
+Total Loss,4000000,,40960,3,61440,exercise,Front Collision,Northbend,Other,10240,NY,IN,2,MALE,500/1000,10240,Saab,3,other-relative,N
+Major Damage,0,YES,38080,3,54400,sleeping,Rear Collision,Columbus,Fire,10880,SC,OH,1,FEMALE,250/500,5440,Chevrolet,3,not-in-family,Y
+Total Loss,4000000,YES,39040,1,58560,polo,Front Collision,Arlington,Other,9760,NC,IL,2,MALE,500/1000,9760,Mercedes,1,other-relative,N
+Major Damage,0,NO,53840,1,67300,video-games,Front Collision,Northbrook,Fire,6730,VA,IN,1,MALE,500/1000,6730,Dodge,1,wife,Y
+Major Damage,0,,26720,3,36740,skydiving,Rear Collision,Hillsdale,Fire,6680,VA,OH,1,MALE,250/500,3340,BMW,1,wife,Y
+Total Loss,0,,54530,0,85690,dancing,Rear Collision,Northbrook,Police,15580,NY,IL,0,FEMALE,100/300,15580,BMW,1,not-in-family,N
+Major Damage,0,YES,29890,3,34160,bungie-jumping,Side Collision,Riverwood,Ambulance,4270,WV,OH,0,FEMALE,500/1000,0,Audi,3,not-in-family,Y
+Minor Damage,0,NO,40880,2,61320,paintball,Front Collision,Hillsdale,Fire,10220,WV,IL,2,MALE,250/500,10220,BMW,1,not-in-family,N
+Total Loss,0,YES,53120,0,79680,paintball,Rear Collision,Columbus,Police,13280,NC,IL,0,MALE,250/500,13280,BMW,3,husband,N
+Total Loss,0,NO,48020,0,61740,exercise,Front Collision,Riverwood,Fire,6860,SC,IL,1,FEMALE,250/500,6860,Audi,1,other-relative,N
+Minor Damage,4000000,NO,5120,0,6400,exercise,,Arlington,,640,VA,IN,0,MALE,250/500,640,Honda,1,husband,N
+Major Damage,0,YES,42420,2,60600,chess,Rear Collision,Northbrook,Fire,6060,SC,OH,1,FEMALE,500/1000,12120,Accura,1,wife,N
+Major Damage,0,NO,40960,0,56320,sleeping,Side Collision,Hillsdale,Ambulance,5120,VA,IL,2,FEMALE,100/300,10240,Volkswagen,3,not-in-family,N
+Total Loss,0,YES,38000,0,52250,sleeping,Side Collision,Northbend,Ambulance,4750,NC,IN,2,FEMALE,100/300,9500,Suburu,1,other-relative,N
+Total Loss,0,,37730,3,53900,camping,Rear Collision,Arlington,Other,10780,SC,IL,0,FEMALE,500/1000,5390,Saab,2,other-relative,N
+Trivial Damage,0,,1980,1,2640,yachting,,Columbus,,440,WV,IL,2,MALE,500/1000,220,Jeep,1,husband,N
+Minor Damage,0,YES,6210,0,8970,sleeping,,Arlington,,1380,NC,OH,0,MALE,250/500,1380,Dodge,1,husband,N
+Minor Damage,0,,4000,3,6000,movies,,Springfield,,1000,NY,IN,1,MALE,100/300,1000,Suburu,1,not-in-family,N
+Major Damage,0,,38640,3,55200,board-games,Front Collision,Northbend,Fire,5520,WV,IL,0,MALE,100/300,11040,Saab,3,own-child,Y
+Trivial Damage,0,NO,5280,3,7260,board-games,,Riverwood,,1320,SC,IN,0,MALE,250/500,660,Saab,1,own-child,N
+Minor Damage,0,NO,41160,0,64680,sleeping,Front Collision,Springfield,Police,11760,NY,IL,2,FEMALE,100/300,11760,Jeep,3,own-child,N
+Major Damage,0,NO,47360,1,59200,basketball,Rear Collision,Northbrook,Police,11840,WV,OH,0,FEMALE,250/500,0,Chevrolet,1,husband,N
+Minor Damage,0,YES,3290,3,4700,paintball,,Arlington,,940,NC,OH,1,FEMALE,500/1000,470,Saab,1,own-child,N
+Total Loss,0,YES,55520,3,69400,video-games,Side Collision,Columbus,Other,6940,NY,OH,0,MALE,250/500,6940,Mercedes,1,husband,N
+Total Loss,5000000,YES,32400,0,40500,sleeping,Side Collision,Northbrook,Police,4050,NY,IN,0,FEMALE,250/500,4050,Nissan,1,own-child,N
+Minor Damage,0,NO,45000,1,60000,skydiving,Side Collision,Riverwood,Fire,10000,SC,IL,2,MALE,500/1000,5000,Honda,3,other-relative,N
+Minor Damage,0,YES,44880,3,67320,basketball,Side Collision,Riverwood,Other,11220,WV,IN,2,MALE,500/1000,11220,Volkswagen,1,wife,N
+Total Loss,0,YES,58870,1,75690,movies,Side Collision,Riverwood,Other,8410,VA,OH,2,FEMALE,500/1000,8410,Saab,3,husband,N
+Major Damage,0,NO,51440,2,64300,paintball,Side Collision,Northbend,Fire,6430,VA,IN,1,MALE,100/300,6430,Chevrolet,3,other-relative,Y
+Major Damage,0,NO,51520,0,64400,camping,Rear Collision,Columbus,Police,6440,SC,OH,2,MALE,100/300,6440,BMW,3,own-child,N
+Minor Damage,0,,64720,2,97080,paintball,Front Collision,Northbend,Fire,16180,WV,OH,1,FEMALE,250/500,16180,Saab,3,husband,N
+Minor Damage,0,YES,4500,0,5500,base-jumping,,Northbrook,Police,500,WV,OH,1,MALE,250/500,500,Honda,1,not-in-family,N
+Total Loss,0,,21490,2,30700,skydiving,Rear Collision,Northbend,Other,6140,SC,IN,0,FEMALE,500/1000,3070,Jeep,3,not-in-family,N
+Minor Damage,0,NO,26040,2,33480,dancing,Side Collision,Springfield,Police,3720,PA,IL,1,FEMALE,100/300,3720,Nissan,1,wife,N
+Total Loss,0,,43620,1,65430,kayaking,Front Collision,Northbend,Police,7270,WV,IN,0,MALE,500/1000,14540,Jeep,2,other-relative,N
+Major Damage,0,YES,31040,1,42680,kayaking,Rear Collision,Northbend,Police,7760,NC,OH,2,MALE,500/1000,3880,Accura,3,not-in-family,Y
+Minor Damage,0,,71820,1,87780,movies,Side Collision,Springfield,Fire,7980,WV,IL,1,MALE,500/1000,7980,Honda,1,not-in-family,N
+Major Damage,0,YES,43680,2,72800,cross-fit,Front Collision,Riverwood,Fire,14560,NY,OH,0,FEMALE,500/1000,14560,Honda,4,own-child,N
+Major Damage,0,YES,63280,0,71190,chess,Rear Collision,Hillsdale,Fire,7910,SC,OH,2,FEMALE,250/500,0,Mercedes,1,wife,Y
+Trivial Damage,0,,2800,1,3600,golf,,Hillsdale,,400,NY,OH,1,MALE,100/300,400,Honda,1,husband,N
+Major Damage,3000000,NO,41760,3,62640,chess,Side Collision,Columbus,Other,10440,NY,OH,1,MALE,250/500,10440,Mercedes,1,not-in-family,N
+Minor Damage,0,YES,50640,1,69630,exercise,Front Collision,Northbrook,Ambulance,6330,NY,IL,2,MALE,100/300,12660,Toyota,3,wife,N
+Minor Damage,0,YES,55280,0,76010,chess,Rear Collision,Hillsdale,Police,6910,NY,IL,1,MALE,250/500,13820,Dodge,3,own-child,Y
+Total Loss,0,NO,32160,0,44220,base-jumping,Rear Collision,Northbrook,Other,4020,WV,OH,1,MALE,100/300,8040,Accura,1,not-in-family,N
+Minor Damage,0,NO,41600,3,57200,camping,Rear Collision,Northbrook,Other,10400,NY,IL,0,FEMALE,250/500,5200,BMW,3,wife,N
+Minor Damage,8000000,NO,1960,3,3080,polo,,Columbus,Police,560,WV,IL,0,MALE,500/1000,560,Nissan,1,wife,N
+Total Loss,0,YES,55120,0,75790,hiking,Rear Collision,Hillsdale,Other,6890,SC,OH,1,FEMALE,250/500,13780,Accura,1,not-in-family,N
+Minor Damage,0,NO,23760,1,32670,skydiving,Rear Collision,Riverwood,Ambulance,2970,WV,IN,0,FEMALE,500/1000,5940,Honda,3,wife,N
+Minor Damage,0,,2580,3,3870,video-games,,Arlington,Police,860,VA,IL,2,FEMALE,250/500,430,Jeep,1,husband,N
+Total Loss,0,,66560,3,91520,video-games,Front Collision,Columbus,Fire,16640,NY,IN,0,FEMALE,250/500,8320,BMW,1,own-child,Y
+Major Damage,0,YES,54320,3,74690,bungie-jumping,Front Collision,Northbrook,Other,13580,NY,IL,1,MALE,250/500,6790,Dodge,1,unmarried,Y
+Trivial Damage,0,YES,3360,3,4620,polo,,Springfield,Police,840,VA,IN,1,MALE,500/1000,420,Audi,1,other-relative,N
+Major Damage,0,YES,35000,0,55000,yachting,Side Collision,Arlington,Police,10000,SC,IN,0,FEMALE,100/300,10000,Toyota,1,not-in-family,Y
+Major Damage,0,YES,39600,2,59400,sleeping,Rear Collision,Springfield,Police,6600,SC,IN,0,FEMALE,100/300,13200,Saab,4,unmarried,Y
+Total Loss,0,NO,49120,1,55260,sleeping,Side Collision,Columbus,Fire,0,PA,OH,1,FEMALE,500/1000,6140,Nissan,3,husband,N
+Minor Damage,0,,35980,1,51400,polo,Side Collision,Springfield,Other,10280,NC,IL,2,MALE,250/500,5140,Honda,3,other-relative,N
+Minor Damage,0,YES,32520,3,48780,reading,Side Collision,Columbus,Ambulance,10840,NY,IL,1,FEMALE,500/1000,5420,Dodge,3,husband,N
+Major Damage,5000000,NO,40740,3,52380,camping,Rear Collision,Riverwood,Ambulance,5820,VA,OH,1,FEMALE,100/300,5820,Toyota,3,own-child,N
+Total Loss,0,,47320,3,74360,cross-fit,Side Collision,Hillsdale,Other,13520,WV,OH,2,FEMALE,100/300,13520,Toyota,4,husband,Y
+Minor Damage,7000000,,42720,0,53400,polo,Front Collision,Northbrook,Police,5340,NY,OH,1,MALE,250/500,5340,Honda,1,other-relative,N
+Total Loss,0,,43080,2,71800,hiking,Front Collision,Hillsdale,Police,14360,VA,IN,2,FEMALE,100/300,14360,Jeep,1,wife,N
+Major Damage,6000000,,59710,0,68240,exercise,Front Collision,Northbrook,Other,0,NY,IN,0,FEMALE,250/500,8530,Toyota,1,own-child,Y
+Major Damage,6000000,,38850,0,61050,bungie-jumping,Rear Collision,Arlington,Other,11100,SC,IN,1,FEMALE,250/500,11100,Dodge,3,unmarried,Y
+Minor Damage,6000000,,3870,1,5590,movies,,Springfield,,860,NY,OH,1,FEMALE,100/300,860,Suburu,1,own-child,N
+Major Damage,0,,29820,0,46860,exercise,Side Collision,Columbus,Fire,8520,NY,IL,0,FEMALE,500/1000,8520,Volkswagen,3,husband,N
+Minor Damage,6000000,NO,2730,3,4290,base-jumping,,Arlington,,780,SC,IN,1,FEMALE,250/500,780,Volkswagen,1,own-child,N
+Minor Damage,0,YES,54950,0,78500,bungie-jumping,Front Collision,Arlington,Police,7850,NC,IN,0,FEMALE,250/500,15700,Audi,3,own-child,N
+Total Loss,0,YES,55090,3,70830,movies,Side Collision,Northbrook,Police,7870,SC,IL,1,MALE,500/1000,7870,Jeep,1,own-child,N
+Total Loss,0,NO,45360,2,68040,yachting,Front Collision,Springfield,Police,7560,SC,IL,0,MALE,250/500,15120,Suburu,3,own-child,N
+Major Damage,4000000,,47700,0,63600,hiking,Side Collision,Hillsdale,Fire,10600,WV,IL,2,FEMALE,100/300,5300,Audi,1,wife,Y
+Minor Damage,6000000,NO,33880,3,43560,board-games,Side Collision,Columbus,Other,4840,WV,IL,0,FEMALE,250/500,4840,Suburu,1,own-child,N
+Total Loss,0,NO,40560,1,60840,exercise,Front Collision,Hillsdale,Police,6760,WV,OH,1,MALE,250/500,13520,Suburu,1,not-in-family,N
+Total Loss,5000000,,45440,3,68160,bungie-jumping,Side Collision,Arlington,Police,11360,WV,OH,2,FEMALE,100/300,11360,Ford,3,wife,N
+Minor Damage,6000000,NO,3760,0,5170,video-games,,Arlington,,470,SC,IL,1,FEMALE,500/1000,940,Toyota,1,unmarried,N
+Total Loss,5000000,,46160,3,57700,reading,Side Collision,Riverwood,Ambulance,5770,NC,IN,0,FEMALE,500/1000,5770,Nissan,1,not-in-family,N
+Total Loss,0,NO,59680,2,89520,sleeping,Front Collision,Northbend,Other,14920,VA,IN,0,FEMALE,500/1000,14920,Audi,3,own-child,N
+Minor Damage,0,NO,3360,0,4620,reading,,Hillsdale,,840,WV,IN,1,MALE,250/500,420,Volkswagen,1,not-in-family,N
+Minor Damage,0,YES,35140,3,45180,yachting,Rear Collision,Northbrook,Ambulance,5020,WV,IN,0,FEMALE,250/500,5020,Honda,1,other-relative,N
+Total Loss,0,YES,31570,0,45100,movies,Side Collision,Riverwood,Other,4510,NY,OH,0,MALE,250/500,9020,Nissan,1,unmarried,N
+Total Loss,0,YES,52920,3,83160,golf,Side Collision,Springfield,Police,15120,SC,IN,0,MALE,500/1000,15120,Toyota,3,not-in-family,N
+Minor Damage,4000000,NO,54810,1,86130,skydiving,Rear Collision,Columbus,Police,15660,WV,IL,2,FEMALE,100/300,15660,Chevrolet,1,other-relative,N
+Major Damage,0,NO,33600,3,48000,sleeping,Front Collision,Hillsdale,Fire,4800,NC,OH,1,MALE,100/300,9600,Dodge,3,wife,N
+Minor Damage,0,NO,2100,0,3300,movies,,Hillsdale,Police,600,VA,OH,0,FEMALE,500/1000,600,Saab,1,husband,N
+Minor Damage,0,NO,40040,2,57200,board-games,Rear Collision,Northbend,Ambulance,5720,NY,IL,1,FEMALE,100/300,11440,Toyota,3,husband,N
+Trivial Damage,0,,5520,0,7590,bungie-jumping,,Columbus,Police,690,VA,IN,2,FEMALE,250/500,1380,Accura,1,husband,N
+Total Loss,0,NO,55440,2,80080,board-games,Rear Collision,Arlington,Police,12320,VA,OH,0,FEMALE,500/1000,12320,Chevrolet,1,unmarried,N
+Minor Damage,0,NO,3360,0,4800,skydiving,,Riverwood,Police,480,WV,OH,0,FEMALE,100/300,960,BMW,1,other-relative,N
+Minor Damage,4000000,,2730,1,3900,cross-fit,,Springfield,Police,780,WV,IN,2,FEMALE,500/1000,390,Volkswagen,1,own-child,Y
+Minor Damage,0,,72320,0,90400,camping,Front Collision,Arlington,Other,9040,SC,IL,0,MALE,100/300,9040,BMW,1,other-relative,N
+Minor Damage,5000000,YES,44030,0,62900,kayaking,Rear Collision,Columbus,Other,12580,NC,OH,0,FEMALE,250/500,6290,Jeep,3,own-child,N
+Major Damage,6000000,YES,37940,2,54200,base-jumping,Rear Collision,Arlington,Police,10840,NC,OH,1,FEMALE,100/300,5420,Nissan,1,own-child,Y
+Major Damage,0,NO,36260,2,51800,paintball,Side Collision,Northbend,Police,10360,NY,OH,2,FEMALE,500/1000,5180,Accura,3,other-relative,N
+Trivial Damage,0,,4800,3,6600,movies,,Northbend,Police,1200,SC,OH,2,MALE,250/500,600,Accura,1,unmarried,N
+Total Loss,0,YES,53920,0,74140,movies,Side Collision,Northbrook,Fire,6740,SC,OH,2,MALE,250/500,13480,Ford,1,husband,N
+Total Loss,0,NO,47460,1,67800,paintball,Front Collision,Northbend,Fire,6780,VA,OH,2,FEMALE,500/1000,13560,Mercedes,1,not-in-family,N
+Major Damage,0,,38780,1,55400,exercise,Rear Collision,Northbend,Fire,11080,NY,OH,1,MALE,250/500,5540,Jeep,1,wife,Y
+Major Damage,0,YES,34370,3,49100,reading,Rear Collision,Columbus,Ambulance,4910,SC,IL,2,MALE,500/1000,9820,Suburu,1,own-child,Y
+Major Damage,0,NO,75600,1,98280,video-games,Side Collision,Riverwood,Police,7560,SC,IN,2,FEMALE,100/300,15120,Chevrolet,3,wife,Y
+Total Loss,9000000,YES,48400,2,66550,polo,Rear Collision,Northbend,Fire,12100,VA,IN,0,FEMALE,100/300,6050,Ford,2,own-child,N
+Major Damage,0,,49280,2,70400,board-games,Side Collision,Arlington,Fire,7040,WV,OH,2,FEMALE,500/1000,14080,Accura,3,unmarried,N
+Major Damage,4000000,,39960,1,53280,board-games,Side Collision,Springfield,Ambulance,8880,WV,IN,1,MALE,100/300,4440,Suburu,3,other-relative,Y
+Total Loss,0,,53830,3,84590,golf,Front Collision,Columbus,Other,15380,NY,IN,2,FEMALE,250/500,15380,Dodge,1,unmarried,N
+Total Loss,0,NO,34720,2,54560,base-jumping,Rear Collision,Columbus,Other,9920,NY,IN,0,FEMALE,500/1000,9920,Saab,1,not-in-family,N
+Minor Damage,0,YES,67230,2,82170,camping,Rear Collision,Northbend,Ambulance,7470,OH,IL,0,MALE,500/1000,7470,Suburu,1,unmarried,N
+Total Loss,0,,42770,2,61100,bungie-jumping,Front Collision,Northbend,Police,12220,NY,OH,1,MALE,250/500,6110,Dodge,3,unmarried,N
+Minor Damage,0,,36330,3,51900,cross-fit,Front Collision,Arlington,Police,10380,NY,IN,0,MALE,500/1000,5190,BMW,3,other-relative,Y
+Trivial Damage,0,,2580,1,3440,hiking,,Arlington,Police,430,SC,IL,2,FEMALE,250/500,430,Suburu,1,unmarried,N
+Total Loss,0,YES,34260,1,51390,cross-fit,Side Collision,Springfield,Ambulance,11420,WV,IN,2,MALE,250/500,5710,Toyota,1,husband,N
+Major Damage,0,,61520,2,76900,base-jumping,Side Collision,Columbus,Other,7690,WV,OH,0,MALE,100/300,7690,Jeep,1,wife,N
+Minor Damage,0,YES,53900,3,77000,kayaking,Rear Collision,Riverwood,Other,7700,WV,IN,2,MALE,100/300,15400,Toyota,1,not-in-family,Y
+Major Damage,4000000,,41760,3,60320,yachting,Side Collision,Hillsdale,Other,9280,NC,IL,0,MALE,500/1000,9280,Chevrolet,1,other-relative,Y
+Minor Damage,0,YES,42490,1,60700,dancing,Rear Collision,Columbus,Fire,6070,NY,IN,1,FEMALE,100/300,12140,Honda,1,wife,N
+Total Loss,0,YES,47360,2,53280,movies,Rear Collision,Arlington,Police,0,SC,IN,1,FEMALE,250/500,5920,Chevrolet,3,husband,N
+Minor Damage,3000000,,26670,2,34290,movies,Rear Collision,Northbrook,Fire,3810,NY,IL,2,FEMALE,100/300,3810,Jeep,1,unmarried,N
+Total Loss,0,NO,41760,1,46980,basketball,Rear Collision,Riverwood,Other,5220,WV,OH,0,MALE,100/300,0,Accura,1,other-relative,N
+Major Damage,0,YES,25690,2,36700,camping,Front Collision,Springfield,Fire,7340,OH,IN,1,MALE,100/300,3670,Nissan,3,husband,N
+Total Loss,0,,48160,1,60200,camping,Side Collision,Hillsdale,Other,6020,OH,OH,0,MALE,250/500,6020,Volkswagen,3,husband,N
+Minor Damage,0,,4860,2,6480,bungie-jumping,,Northbend,,1080,SC,IN,1,MALE,500/1000,540,Honda,1,own-child,N
+Minor Damage,0,YES,61040,1,87200,paintball,Front Collision,Northbrook,Fire,8720,NC,OH,0,FEMALE,500/1000,17440,Honda,1,unmarried,N
+Major Damage,0,YES,72320,3,108480,sleeping,Rear Collision,Northbend,Fire,18080,SC,IL,2,FEMALE,100/300,18080,Volkswagen,1,wife,N
+Minor Damage,3000000,,52500,3,67500,bungie-jumping,Side Collision,Arlington,Police,7500,NC,OH,2,FEMALE,250/500,7500,Suburu,3,other-relative,N
+Major Damage,5000000,,36540,1,46980,base-jumping,Rear Collision,Arlington,Other,5220,NY,IL,0,MALE,500/1000,5220,Audi,1,wife,N
+Minor Damage,0,,3680,3,5060,kayaking,,Columbus,Police,920,WV,OH,0,FEMALE,250/500,460,Mercedes,1,husband,N
