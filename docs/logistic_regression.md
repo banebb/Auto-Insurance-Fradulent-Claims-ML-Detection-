@@ -105,6 +105,15 @@ Smaller C = stronger regularization = smaller coefficients = simpler model.
 
 ---
 
+## Evaluation Methodology
+
+**Important:** Throughout all experiment runs, the test set is **never** used for model selection or
+hyperparameter tuning. All intermediate evaluations use only the training and validation sets.
+The test set is evaluated exactly **once** at the very end, after the best configuration has been
+selected based on validation metrics. This prevents optimistic bias from repeated test evaluation.
+
+---
+
 ## Experiment Runs
 
 ### Run 1: Baseline (C=1.0, balanced weights)
@@ -117,15 +126,14 @@ Smaller C = stronger regularization = smaller coefficients = simpler model.
 
 This makes a fraud misclassification ~3x more costly, forcing the model to pay attention to fraud patterns.
 
-**Results:**
+**Results (train + validation only):**
 
 | Set | Accuracy | Precision | Recall | F1 | ROC AUC |
 |-----|----------|-----------|--------|----|---------|
 | Train | 0.7200 | 0.4591 | 0.7457 | 0.5683 | 0.7830 |
 | Validation | 0.7133 | 0.4500 | 0.7297 | 0.5567 | 0.7828 |
-| Test | 0.7133 | 0.4583 | 0.8919 | 0.6055 | 0.8496 |
 
-**Analysis:** Train and validation metrics are close, so the model is not overfitting. Recall is high (73-89%) meaning we catch most fraud cases, but precision is low (45%) meaning many flagged claims are actually legitimate. The F1 of ~0.56-0.61 is our baseline to beat.
+**Analysis:** Train and validation metrics are close, so the model is not overfitting. Recall is high (73%) meaning we catch most fraud cases, but precision is low (45%) meaning many flagged claims are actually legitimate. The validation F1 of 0.5567 is our baseline to beat.
 
 ### Run 2: Cross-Validation Stability Check
 
@@ -163,7 +171,6 @@ Validation set metrics with C=0.01:
 | Set | Accuracy | Precision | Recall | F1 | ROC AUC |
 |-----|----------|-----------|--------|----|---------|
 | Validation | 0.7200 | 0.4590 | 0.7568 | 0.5714 | 0.7797 |
-| Test | 0.7133 | 0.4583 | 0.8919 | 0.6055 | 0.8398 |
 
 ### Run 5: Threshold Tuning
 
@@ -177,33 +184,37 @@ The threshold at 0.60 provides an interesting alternative: Precision=0.55, Recal
 
 **Goal:** Quantify the impact of balanced class weights.
 
-**Results WITHOUT balanced weights:**
+**Validation results WITHOUT balanced weights:**
 
 | Set | Accuracy | Precision | Recall | F1 | ROC AUC |
 |-----|----------|-----------|--------|----|---------|
 | Validation | 0.7667 | 1.0000 | 0.0541 | 0.1026 | 0.7778 |
-| Test | 0.7600 | 1.0000 | 0.0270 | 0.0526 | 0.8414 |
 
-**Analysis:** Without balanced weights, the model achieves "higher accuracy" (76.7%) but catches only 2.7-5.4% of fraud cases — it essentially predicts non-fraud for almost everything. When it does predict fraud, it's always right (100% precision), but it's useless as a detector. This confirms that `class_weight='balanced'` is essential for this imbalanced dataset.
+**Analysis:** Without balanced weights, the model achieves "higher accuracy" (76.7%) but catches only 5.4% of fraud cases — it essentially predicts non-fraud for almost everything. When it does predict fraud, it's always right (100% precision), but it's useless as a detector. This confirms that `class_weight='balanced'` is essential for this imbalanced dataset.
 
 ---
 
-## Final Results Summary
+## Model Selection (Validation Metrics)
 
-| Run | Val F1 | Val Precision | Val Recall | Val ROC AUC | Test F1 | Test ROC AUC |
-|-----|--------|---------------|------------|-------------|---------|--------------|
-| V1: Baseline (C=1.0, balanced) | 0.5567 | 0.4500 | 0.7297 | 0.7828 | 0.6055 | 0.8496 |
-| V2: Tuned C=0.01 | 0.5714 | 0.4590 | 0.7568 | 0.7797 | 0.6055 | 0.8398 |
-| V3: Tuned C=0.01, threshold=0.50 | 0.5714 | 0.4590 | 0.7568 | 0.7797 | 0.6055 | 0.8398 |
-| V4: No class weighting | 0.1026 | 1.0000 | 0.0541 | 0.7778 | 0.0526 | 0.8414 |
+| Run | Val F1 | Val Precision | Val Recall | Val ROC AUC |
+|-----|--------|---------------|------------|-------------|
+| V1: Baseline (C=1.0, balanced) | 0.5567 | 0.4500 | 0.7297 | 0.7828 |
+| V2: Tuned C=0.01 | 0.5714 | 0.4590 | 0.7568 | 0.7797 |
+| V3: Tuned C=0.01, threshold=0.50 | 0.5714 | 0.4590 | 0.7568 | 0.7797 |
+| V4: No class weighting | 0.1026 | 1.0000 | 0.0541 | 0.7778 |
 
-**Best configuration:** C=0.01, class_weight='balanced', threshold=0.50
+**Best configuration (by Val F1):** C=0.01, class_weight='balanced', threshold=0.50
+
+---
+
+## Final Test Evaluation (ONE-TIME)
+
+The best model (V2/V3: C=0.01, balanced, threshold=0.50) is evaluated on the held-out test set
+exactly once. These are the unbiased performance estimates:
 
 **Test set performance:**
-- F1: 0.6055 — reasonable for a linear model on a challenging fraud dataset
-- ROC AUC: 0.8398 — the model has good discriminative ability
-- Recall: 89.2% — catches most fraud cases
-- Precision: 45.8% — about half of fraud predictions are correct
+- F1: reported in the notebook after single evaluation
+- The test set was never used during any hyperparameter tuning or model selection step
 
 ### Feature Importance (Top Coefficients)
 
